@@ -1,0 +1,684 @@
+FID,ID,Day,Month,Year,Season,Transect,Study_Site,Effort,River_Dist,HABITAT,Hab_RD,Lat,Long,Host_abundance_Tr,Host_Ab_SS,Host_dens_Tr,Host_Dens_SS,Sex,BW,Tot_Lgth,Tail_Lgth,SVL,BC,prev_p,Prevalence,Intensity,Density,gridcode,Canopy,Elevation,Floodness
+232,ML196,13,4,2014,Dry,KKL,OPP South,168,interior,OPP,OPPInt,5.386,117.982,141.169,299,41.86,5.08,,6,166.4,99,67.2,0.4258,p,1,44,0.65476,4,High canopy (>10m),23.1648,Seasonally flooded
+233,ML197,14,4,2014,Dry,KKL,OPP South,168,interior,OPP,OPPInt,5.386,117.982,141.169,299,41.86,5.08,,7,184,109.8,73.8,0.4524,p,1,33,0.44715,4,High canopy (>10m),23.1648,Seasonally flooded
+238,ML202,20,4,2014,Dry,KKL,OPP South,168,interior,OPP,OPPInt,5.386,117.982,141.169,299,41.86,5.08,,13,219.4,130.2,85.8,0.5761,p,1,13,0.15152,4,High canopy (>10m),23.1648,Seasonally flooded
+239,ML200,21,4,2014,Dry,KKL,OPP South,168,interior,OPP,OPPInt,5.386,117.982,141.169,299,41.86,5.08,,13.5,214.8,126.4,88,0.5813,p,1,4,0.04545,4,High canopy (>10m),23.1648,Seasonally flooded
+344,ML200,5,2,2015,Monsoon,KKL,OPP South,168,interior,OPP,OPPInt,5.386,117.982,141.169,299,41.86,5.08,,13.5,213.6,122,89,0.5798,p,1,11,0.1236,4,High canopy (>10m),23.1648,Seasonally flooded
+349,ML254,12,2,2015,Monsoon,KKL,OPP South,168,interior,OPP,OPPInt,5.386,117.982,141.169,299,41.86,5.08,,7.5,175.6,104.8,80.4,0.4593,p,1,13,0.16169,4,High canopy (>10m),23.1648,Seasonally flooded
+353,ML254,21,2,2015,Monsoon,KKL,OPP South,168,interior,OPP,OPPInt,5.386,117.982,141.169,299,41.86,5.08,,7.5,175.6,104.8,80.4,0.4593,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+355,ML257,22,2,2015,Monsoon,KKL,OPP South,168,interior,OPP,OPPInt,5.386,117.982,141.169,299,41.86,5.08,,12.5,184,101,81.6,0.5738,p,1,21,0.25735,4,High canopy (>10m),23.1648,Seasonally flooded
+357,ML202,23,2,2015,Monsoon,KKL,OPP South,168,interior,OPP,OPPInt,5.386,117.982,141.169,299,41.86,5.08,,15,222.4,134.6,89.8,0.6021,n,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+631,ML361,17,6,2016,Dry,KKL,OPP South,168,interior,OPP,OPPInt,5.386,117.982,141.169,299,41.86,5.08,,2.5,120,74,46.8,0.2383,p,1,4,0.08547,4,High canopy (>10m),23.1648,Seasonally flooded
+117,ML115,31,10,2013,Monsoon,Kuril,OPP South,100,interior,OPP,OPPInt,5.38596,118.0662,149.41,299,94.6,5.08,,11.5,207.4,123.2,83.2,0.5524,p,1,11,0.13221,4,High canopy (>10m),28.0416,High ground
+122,ML122,3,11,2013,Monsoon,Kuril,OPP South,100,interior,OPP,OPPInt,5.38596,118.0662,149.41,299,94.6,5.08,,,,,,,,0,,,4,High canopy (>10m),28.0416,High ground
+123,ML118,4,11,2013,Monsoon,Kuril,OPP South,100,interior,OPP,OPPInt,5.38596,118.0662,149.41,299,94.6,5.08,,3,129.8,75,54.8,0.2744,p,1,10,0.18248,4,High canopy (>10m),28.0416,High ground
+124,ML56,5,11,2013,Monsoon,Kuril,OPP South,100,interior,OPP,OPPInt,5.38596,118.0662,149.41,299,94.6,5.08,,7,175,101.6,67.4,0.4621,p,1,24,0.35608,4,High canopy (>10m),28.0416,High ground
+126,ML120,6,11,2013,Monsoon,Kuril,OPP South,100,interior,OPP,OPPInt,5.38596,118.0662,149.41,299,94.6,5.08,,4.5,151.6,91.8,60.4,0.3668,p,1,4,0.06623,4,High canopy (>10m),28.0416,High ground
+128,ML121,15,11,2013,Monsoon,Kuril,OPP South,100,interior,OPP,OPPInt,5.38596,118.0662,149.41,299,94.6,5.08,,6,160.2,98.6,60.4,0.4369,p,1,12,0.19868,4,High canopy (>10m),28.0416,High ground
+718,ML397,26,9,2016,Monsoon,Kuril,OPP South,100,interior,OPP,OPPInt,5.38596,118.0662,149.41,299,94.6,5.08,,2.5,134.2,79.6,52.2,0.2317,p,1,29,0.55556,4,High canopy (>10m),28.0416,High ground
+720,ML399,30,9,2016,Monsoon,Kuril,OPP South,100,interior,OPP,OPPInt,5.38596,118.0662,149.41,299,94.6,5.08,,5,153.2,87.2,61.6,0.3906,p,1,15,0.24351,4,High canopy (>10m),28.0416,High ground
+721,ML400,1,10,2016,Monsoon,Kuril,OPP South,100,interior,OPP,OPPInt,5.38596,118.0662,149.41,299,94.6,5.08,,6.5,181.2,110.6,72.8,0.4365,p,1,34,0.46703,4,High canopy (>10m),28.0416,High ground
+121,ML117,3,11,2013,Monsoon,Kuril,OPP South,100,interior,OPP,OPPInt,5.38617,118.07126,149.41,299,94.6,5.08,,7.5,146.2,77.2,68.4,0.4769,p,1,37,0.54094,4,High canopy (>10m),23.7744,Seasonally flooded
+125,ML119,6,11,2013,Monsoon,Kuril,OPP South,100,interior,OPP,OPPInt,5.38617,118.07126,149.41,299,94.6,5.08,,20.5,210.4,122,92.4,0.6673,p,1,41,0.44372,4,High canopy (>10m),23.7744,Seasonally flooded
+127,ML64,9,11,2013,Monsoon,Kuril,OPP South,100,interior,OPP,OPPInt,5.38617,118.07126,149.41,299,94.6,5.08,,4.25,155.2,96.6,60.8,0.3523,p,1,13,0.21382,4,High canopy (>10m),23.7744,Seasonally flooded
+717,ML396,26,9,2016,Monsoon,Kuril,OPP South,100,interior,OPP,OPPInt,5.38617,118.07126,149.41,299,94.6,5.08,,8.5,194.4,117.4,72.2,0.5001,p,1,64,0.88643,4,High canopy (>10m),23.7744,Seasonally flooded
+116,ML55,31,10,2013,Monsoon,Kuril,OPP South,100,interior,OPP,OPPInt,5.38636,118.077,149.41,299,94.6,5.08,,5.5,170.2,103.2,66.2,0.4066,p,1,5,0.07553,4,High canopy (>10m),23.1648,Seasonally flooded
+719,ML398,29,9,2016,Monsoon,Kuril,OPP South,100,interior,OPP,OPPInt,5.38636,118.077,149.41,299,94.6,5.08,,5.5,170.8,100.8,67.8,0.4043,p,1,217,3.20059,4,High canopy (>10m),23.1648,Seasonally flooded
+120,ML116,1,11,2013,Monsoon,Kuril,OPP South,100,interior,OPP,OPPInt,5.38644,118.07451,149.41,299,94.6,5.08,,3,139.6,84,55.4,0.2737,p,1,6,0.1083,4,High canopy (>10m),27.432,High ground
+715,ML392,21,9,2016,Monsoon,Kuril,OPP South,100,interior,OPP,OPPInt,5.38644,118.07451,149.41,299,94.6,5.08,,6.5,168.4,9.8,69.8,0.4409,,0,,,4,High canopy (>10m),27.432,High ground
+716,ML392,22,9,2016,Monsoon,Kuril,OPP South,100,interior,OPP,OPPInt,5.38644,118.07451,149.41,299,94.6,5.08,,6.5,168.4,9.8,69.8,0.4409,,0,,,4,High canopy (>10m),27.432,High ground
+234,ML198,15,4,2014,Dry,KKL,OPP South,168,interior,OPP,OPPInt,5.389,117.981,141.169,299,41.86,5.08,,5.5,151.4,81,69.8,0.4015,p,1,22,0.31519,4,High canopy (>10m),30.7848,High ground
+236,ML200,18,4,2014,Dry,KKL,OPP South,168,interior,OPP,OPPInt,5.389,117.981,141.169,299,41.86,5.08,,13.5,214.8,126.4,88,0.5813,p,1,14,0.15909,4,High canopy (>10m),30.7848,High ground
+333,ML246,1,2,2015,Monsoon,KKL,OPP South,168,interior,OPP,OPPInt,5.389,117.981,141.169,299,41.86,5.08,,7.5,167.8,98.6,69,0.4759,p,1,21,0.30435,4,High canopy (>10m),30.7848,High ground
+336,ML248,2,2,2015,Monsoon,KKL,OPP South,168,interior,OPP,OPPInt,5.389,117.981,141.169,299,41.86,5.08,,13,188,103.6,80,0.5853,p,1,5,0.0625,4,High canopy (>10m),30.7848,High ground
+338,ML250,3,2,2015,Monsoon,KKL,OPP South,168,interior,OPP,OPPInt,5.389,117.981,141.169,299,41.86,5.08,,11,185.6,115.2,79.8,0.5475,p,1,13,0.16291,4,High canopy (>10m),30.7848,High ground
+343,ML252,5,2,2015,Monsoon,KKL,OPP South,168,interior,OPP,OPPInt,5.389,117.981,141.169,299,41.86,5.08,,3.5,100,44.2,55.4,0.3121,p,1,11,0.19856,4,High canopy (>10m),30.7848,High ground
+348,ML200,12,2,2015,Monsoon,KKL,OPP South,168,interior,OPP,OPPInt,5.389,117.981,141.169,299,41.86,5.08,,13.5,213.6,122,89,0.5798,,0,,,4,High canopy (>10m),30.7848,High ground
+350,ML250,18,2,2015,Monsoon,KKL,OPP South,168,interior,OPP,OPPInt,5.389,117.981,141.169,299,41.86,5.08,,11,185.6,115.2,79.8,0.5475,,0,,,4,High canopy (>10m),30.7848,High ground
+356,ML258,23,2,2015,Monsoon,KKL,OPP South,168,interior,OPP,OPPInt,5.389,117.981,141.169,299,41.86,5.08,,8,180.8,110.2,70,0.4895,p,1,6,0.08571,4,High canopy (>10m),30.7848,High ground
+626,ML359,10,6,2016,Dry,KKL,OPP South,168,interior,OPP,OPPInt,5.389,117.981,141.169,299,41.86,5.08,,9,1.86,1098,75.2,0.5086,p,1,12,0.15957,4,High canopy (>10m),30.7848,High ground
+627,ML198,11,6,2016,Dry,KKL,OPP South,168,interior,OPP,OPPInt,5.389,117.981,141.169,299,41.86,5.08,,13,165.2,85.6,86.2,0.5755,p,1,21,0.24362,4,High canopy (>10m),30.7848,High ground
+629,ML360,12,6,2016,Dry,KKL,OPP South,168,interior,OPP,OPPInt,5.389,117.981,141.169,299,41.86,5.08,,6.5,162.6,97.2,66.6,0.4458,p,1,20,0.3003,4,High canopy (>10m),30.7848,High ground
+637,ML366,29,6,2016,Dry,KKL,OPP South,168,interior,OPP,OPPInt,5.389,117.981,141.169,299,41.86,5.08,,9,181.2,91.8,80,0.5014,p,1,15,0.1875,4,High canopy (>10m),30.7848,High ground
+13,ML45,23,6,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07168,149.41,299,94.6,5.08,male,6,173.2,106.2,76.8,0.4127,p,1,2,0.02604,1,Grassland (up to 2m),22.5552,Seasonally flooded
+14,ML46,23,6,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07168,149.41,299,94.6,5.08,male,7,177.8,99.1,73,0.4535,p,1,7,0.09589,1,Grassland (up to 2m),22.5552,Seasonally flooded
+19,ML51,24,6,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07168,149.41,299,94.6,5.08,,5.5,154.2,93,61.4,0.414,p,1,15,0.2443,1,Grassland (up to 2m),22.5552,Seasonally flooded
+22,ML53,25,6,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07168,149.41,299,94.6,5.08,,7.5,184.2,111,73,0.4696,p,1,4,0.05479,1,Grassland (up to 2m),22.5552,Seasonally flooded
+27,ML58,27,6,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07168,149.41,299,94.6,5.08,,6.5,140.8,73.8,70.6,0.4397,p,1,13,0.18414,1,Grassland (up to 2m),22.5552,Seasonally flooded
+29,ML60,28,6,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07168,149.41,299,94.6,5.08,,1.1,128.8,79,49.4,0.0244,p,1,2,0.04049,1,Grassland (up to 2m),22.5552,Seasonally flooded
+32,ML61,1,7,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07168,149.41,299,94.6,5.08,male,22.5,226,131,95,0.6837,p,1,22,0.23158,1,Grassland (up to 2m),22.5552,Seasonally flooded
+34,ML52,3,7,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07168,149.41,299,94.6,5.08,male,5.5,175.2,107.6,65.6,0.4075,n,0,,,1,Grassland (up to 2m),22.5552,Seasonally flooded
+43,ML68,8,7,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07168,149.41,299,94.6,5.08,,4,140,84.8,54.4,0.3469,p,1,9,0.16544,1,Grassland (up to 2m),22.5552,Seasonally flooded
+49,ML74,11,7,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07168,149.41,299,94.6,5.08,male,3.5,145.4,89,56,0.3112,p,1,4,0.07143,1,Grassland (up to 2m),22.5552,Seasonally flooded
+51,ML76,15,7,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07168,149.41,299,94.6,5.08,,1.5,110.8,67.6,42.2,0.1083,p,1,12,0.28436,1,Grassland (up to 2m),22.5552,Seasonally flooded
+56,ML78,23,7,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07168,149.41,299,94.6,5.08,,11,188.4,110.8,79,0.5488,p,1,15,0.18987,1,Grassland (up to 2m),22.5552,Seasonally flooded
+60,ML82,24,7,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07168,149.41,299,94.6,5.08,male,5.5,170.4,102,68.8,0.4029,p,1,4,0.05814,1,Grassland (up to 2m),22.5552,Seasonally flooded
+63,ML68,28,7,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07168,149.41,299,94.6,5.08,,3.5,138.4,84,53.6,0.3146,n,0,,,1,Grassland (up to 2m),22.5552,Seasonally flooded
+67,ML87,30,7,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07168,149.41,299,94.6,5.08,,3,118.4,73,46,0.2869,p,1,3,0.06522,1,Grassland (up to 2m),22.5552,Seasonally flooded
+68,ML64,30,7,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07168,149.41,299,94.6,5.08,,3,127.4,78,50.6,0.28,p,1,3,0.05929,1,Grassland (up to 2m),22.5552,Seasonally flooded
+70,ML88,2,8,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07168,149.41,299,94.6,5.08,,10,170,93,76,0.5317,p,1,1,0.01316,1,Grassland (up to 2m),22.5552,Seasonally flooded
+71,ML89,2,8,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07168,149.41,299,94.6,5.08,,4,143,82.4,57,0.3429,p,1,37,0.64912,1,Grassland (up to 2m),22.5552,Seasonally flooded
+73,ML60,3,8,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07168,149.41,299,94.6,5.08,,2.5,126,76.8,49.2,0.2352,n,0,,,1,Grassland (up to 2m),22.5552,Seasonally flooded
+74,ML91,4,8,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07168,149.41,299,94.6,5.08,,11,2.05,124.6,88.8,0.5345,p,1,7,0.07883,1,Grassland (up to 2m),22.5552,Seasonally flooded
+77,ML93,6,8,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07168,149.41,299,94.6,5.08,,4,152,92.8,60,0.3386,n,0,,,1,Grassland (up to 2m),22.5552,Seasonally flooded
+79,ML95,12,8,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07168,149.41,299,94.6,5.08,,17.5,225.8,134.8,92.8,0.6318,p,1,4,0.0431,1,Grassland (up to 2m),22.5552,Seasonally flooded
+102,ML61,1,10,2013,Monsoon,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07168,149.41,299,94.6,5.08,,20.5,232.8,138,95,0.6633,n,0,,,1,Grassland (up to 2m),22.5552,Seasonally flooded
+118,1,31,10,2013,Monsoon,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07168,149.41,299,94.6,5.08,,10,190.6,0,80.8,0.5243,p,1,8,0.09901,1,Grassland (up to 2m),22.5552,Seasonally flooded
+119,2,1,11,2013,Monsoon,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07168,149.41,299,94.6,5.08,,17.5,236.2,130.2,97,0.6257,p,1,7,0.07216,1,Grassland (up to 2m),22.5552,Seasonally flooded
+697,ML382,6,9,2016,Monsoon,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07168,149.41,299,94.6,5.08,,2,114.6,71,43,0.1843,p,1,12,0.27907,1,Grassland (up to 2m),22.5552,Seasonally flooded
+699,ML384,9,9,2016,Monsoon,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07168,149.41,299,94.6,5.08,,11,197.8,109.8,84,0.5412,p,1,18,0.21429,1,Grassland (up to 2m),22.5552,Seasonally flooded
+703,ML387,11,9,2016,Monsoon,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07168,149.41,299,94.6,5.08,,7,165,90.2,72.6,0.4541,p,1,7,0.09642,1,Grassland (up to 2m),22.5552,Seasonally flooded
+705,ML389,12,9,2016,Monsoon,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07168,149.41,299,94.6,5.08,,4.5,158,98.4,62.4,0.3639,p,1,12,0.19231,1,Grassland (up to 2m),22.5552,Seasonally flooded
+707,ML391,15,9,2016,Monsoon,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07168,149.41,299,94.6,5.08,,3,126.6,74.2,51.2,0.2791,p,1,11,0.21484,1,Grassland (up to 2m),22.5552,Seasonally flooded
+708,ML392,16,9,2016,Monsoon,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07168,149.41,299,94.6,5.08,,6.5,168.4,9.8,69.8,0.4409,p,1,29,0.41547,1,Grassland (up to 2m),22.5552,Seasonally flooded
+710,ML38,17,9,2016,Monsoon,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07168,149.41,299,94.6,5.08,,5.5,160.8,93.8,66.6,0.406,p,1,5,0.07508,1,Grassland (up to 2m),22.5552,Seasonally flooded
+711,ML394,18,9,2016,Monsoon,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07168,149.41,299,94.6,5.08,,3,138.4,83.6,53.4,0.2762,p,1,12,0.22472,1,Grassland (up to 2m),22.5552,Seasonally flooded
+8,ML40,19,6,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07439,149.41,299,94.6,5.08,,3.5,1.2,61.8,52.2,0.3167,n,0,,,4,High canopy (>10m),21.6408,Always Flooded
+12,ML44,23,6,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07439,149.41,299,94.6,5.08,male,3,143.2,86.2,59.8,0.2685,p,1,1,0.01672,4,High canopy (>10m),21.6408,Always Flooded
+18,ML50,24,6,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07439,149.41,299,94.6,5.08,,1.75,116.2,72,42.2,0.1495,p,1,1,0.0237,4,High canopy (>10m),21.6408,Always Flooded
+21,ML52,25,6,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07439,149.41,299,94.6,5.08,,6,175.6,109.6,66.2,0.4274,n,0,,,4,High canopy (>10m),21.6408,Always Flooded
+24,ML55,26,6,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07439,149.41,299,94.6,5.08,,5.5,467.6,112,66,0.4069,p,1,2,0.0303,4,High canopy (>10m),21.6408,Always Flooded
+26,ML57,27,6,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07439,149.41,299,94.6,5.08,,4,157.4,94.2,63.4,0.3341,p,1,33,0.5205,4,High canopy (>10m),21.6408,Always Flooded
+35,ML64,4,7,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07439,149.41,299,94.6,5.08,,3,145.3,87,58.2,0.2703,p,1,14,0.24055,4,High canopy (>10m),21.6408,Always Flooded
+37,ML53,5,7,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07439,149.41,299,94.6,5.08,male,6.5,184.6,108.2,73.6,0.4354,n,0,,,4,High canopy (>10m),21.6408,Always Flooded
+40,ML60,6,7,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07439,149.41,299,94.6,5.08,,2.5,129,79,50.5,0.2336,n,0,,,4,High canopy (>10m),21.6408,Always Flooded
+59,ML81,24,7,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07439,149.41,299,94.6,5.08,male,7,184,108,74.8,0.451,p,1,2,0.02674,4,High canopy (>10m),21.6408,Always Flooded
+62,ML84,28,7,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07439,149.41,299,94.6,5.08,,3.5,120.6,65,55,0.3126,p,1,4,0.07273,4,High canopy (>10m),21.6408,Always Flooded
+69,ML53,2,8,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07439,149.41,299,94.6,5.08,,7,183.3,108.8,71,0.4565,n,0,,,4,High canopy (>10m),21.6408,Always Flooded
+72,ML90,3,8,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07439,149.41,299,94.6,5.08,,6.5,163.4,96.4,66,0.4468,p,1,5,0.07576,4,High canopy (>10m),21.6408,Always Flooded
+76,ML60,6,8,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07439,149.41,299,94.6,5.08,,2.5,130,76.4,53.2,0.2306,n,0,,,4,High canopy (>10m),21.6408,Always Flooded
+704,ML388,12,9,2016,Monsoon,Kuril,OPP South,100,riverside,OPP,OPPRs,5.38904,118.07439,149.41,299,94.6,5.08,,2.5,135.4,81.8,50,0.2342,p,1,7,0.14,4,High canopy (>10m),21.6408,Always Flooded
+237,ML201,19,4,2014,Dry,KKL,OPP South,168,interior,OPP,OPPInt,5.39045,117.98339,141.169,299,41.86,5.08,,1.5,79.4,35.2,42,0.1085,n,0,,,3,Low canopy (5-10m),22.86,Seasonally flooded
+240,ML203,23,4,2014,Dry,KKL,OPP South,168,interior,OPP,OPPInt,5.39045,117.98339,141.169,299,41.86,5.08,,14,222.6,129.8,90.8,0.5853,p,1,21,0.23128,3,Low canopy (5-10m),22.86,Seasonally flooded
+335,ML247,2,2,2015,Monsoon,KKL,OPP South,168,interior,OPP,OPPInt,5.39045,117.98339,141.169,299,41.86,5.08,,3,135.4,84,50.8,0.2797,p,1,2,0.03937,3,Low canopy (5-10m),22.86,Seasonally flooded
+340,ML198,4,2,2015,Monsoon,KKL,OPP South,168,interior,OPP,OPPInt,5.39045,117.98339,141.169,299,41.86,5.08,,7.5,157.6,81.6,70.4,0.4736,p,1,11,0.15625,3,Low canopy (5-10m),22.86,Seasonally flooded
+347,ML250,12,2,2015,Monsoon,KKL,OPP South,168,interior,OPP,OPPInt,5.39045,117.98339,141.169,299,41.86,5.08,,11,185.6,115.2,79.8,0.5475,,0,,,3,Low canopy (5-10m),22.86,Seasonally flooded
+351,ML255,20,2,2015,Monsoon,KKL,OPP South,168,interior,OPP,OPPInt,5.39045,117.98339,141.169,299,41.86,5.08,,6.5,71.8,100,68.4,0.443,p,1,8,0.11696,3,Low canopy (5-10m),22.86,Seasonally flooded
+354,ML256,22,2,2015,Monsoon,KKL,OPP South,168,interior,OPP,OPPInt,5.39045,117.98339,141.169,299,41.86,5.08,,7,184.6,112,72,0.455,p,1,6,0.08333,3,Low canopy (5-10m),22.86,Seasonally flooded
+628,ML200,12,6,2016,Dry,KKL,OPP South,168,interior,OPP,OPPInt,5.39045,117.98339,141.169,299,41.86,5.08,,15,219.8,130.8,89,0.6033,p,1,22,0.24719,3,Low canopy (5-10m),22.86,Seasonally flooded
+630,ML250,17,6,2016,Dry,KKL,OPP South,168,interior,OPP,OPPInt,5.39045,117.98339,141.169,299,41.86,5.08,,15.5,,,,,n,0,,,3,Low canopy (5-10m),22.86,Seasonally flooded
+634,ML363,19,6,2016,Dry,KKL,OPP South,168,interior,OPP,OPPInt,5.39045,117.98339,141.169,299,41.86,5.08,,7.5,189,114,52.4,0.509,p,1,8,0.15267,3,Low canopy (5-10m),22.86,Seasonally flooded
+639,ML359,30,6,2016,Dry,KKL,OPP South,168,interior,OPP,OPPInt,5.39045,117.98339,141.169,299,41.86,5.08,,9,1.86,109.8,75.2,0.5086,,0,,,3,Low canopy (5-10m),22.86,Seasonally flooded
+7,ML39,18,6,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.39056,118.06638,149.41,299,94.6,5.08,,5,128.2,67.3,60.8,0.3918,n,1,1,0.01645,4,High canopy (>10m),22.2504,Seasonally flooded
+9,ML41,19,6,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.39056,118.06638,149.41,299,94.6,5.08,,8.5,191,112,85,0.4817,n,0,,,4,High canopy (>10m),22.2504,Seasonally flooded
+16,ML48,23,6,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.39056,118.06638,149.41,299,94.6,5.08,,3.5,149,94.4,57.4,0.3093,n,0,,,4,High canopy (>10m),22.2504,Seasonally flooded
+25,ML56,26,6,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.39056,118.06638,149.41,299,94.6,5.08,,6.25,171.8,101.2,71,0.4299,p,1,9,0.12676,4,High canopy (>10m),22.2504,Seasonally flooded
+31,ML39,28,6,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.39056,118.06638,149.41,299,94.6,5.08,,4,129,69.6,63,0.3346,n,0,,,4,High canopy (>10m),22.2504,Seasonally flooded
+39,ML41,5,7,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.39056,118.06638,149.41,299,94.6,5.08,,9,192.2,115,78.8,0.5032,n,0,,,4,High canopy (>10m),22.2504,Seasonally flooded
+41,ML66,6,7,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.39056,118.06638,149.41,299,94.6,5.08,,2.5,178.4,100.4,80.2,0.209,p,1,7,0.08728,4,High canopy (>10m),22.2504,Seasonally flooded
+54,ML47,21,7,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.39056,118.06638,149.41,299,94.6,5.08,,5,156.8,94.4,60.6,0.3921,p,1,5,0.08251,4,High canopy (>10m),22.2504,Seasonally flooded
+78,ML39,7,8,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.39056,118.06638,149.41,299,94.6,5.08,,4,130,67.8,64.2,0.3331,n,0,,,4,High canopy (>10m),22.2504,Seasonally flooded
+712,ML395,18,9,2016,Monsoon,Kuril,OPP South,100,riverside,OPP,OPPRs,5.39056,118.06638,149.41,299,94.6,5.08,,5,159.8,93.8,64,0.387,p,1,89,1.39063,4,High canopy (>10m),22.2504,Seasonally flooded
+6,ML38,18,6,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.39159,118.06359,149.41,299,94.6,5.08,,4,143.9,85.8,56.1,0.3442,p,1,2,0.03565,4,High canopy (>10m),21.6408,Always Flooded
+10,ML42,21,6,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.39159,118.06359,149.41,299,94.6,5.08,male,5.25,162.4,99.8,60.6,0.404,n,0,,,4,High canopy (>10m),21.6408,Always Flooded
+17,ML49,23,6,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.39159,118.06359,149.41,299,94.6,5.08,,7.5,174,104,69.2,0.4755,p,1,2,0.0289,4,High canopy (>10m),21.6408,Always Flooded
+20,ML42,21,6,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.39159,118.06359,149.41,299,94.6,5.08,male,5.25,162.4,99.8,60.6,0.404,n,0,,,4,High canopy (>10m),21.6408,Always Flooded
+23,ML54,25,6,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.39159,118.06359,149.41,299,94.6,5.08,,9,1.9,112.4,78,0.5043,p,1,1,0.01282,4,High canopy (>10m),21.6408,Always Flooded
+28,ML59,27,6,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.39159,118.06359,149.41,299,94.6,5.08,,7,184,113.6,71.4,0.4559,n,0,,,4,High canopy (>10m),21.6408,Always Flooded
+33,ML62,2,7,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.39159,118.06359,149.41,299,94.6,5.08,male,3,143,85.2,56.2,0.2727,p,1,1,0.01779,4,High canopy (>10m),21.6408,Always Flooded
+36,ML54,4,7,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.39159,118.06359,149.41,299,94.6,5.08,,8,190,112.6,75,0.4816,p,1,1,0.01333,4,High canopy (>10m),21.6408,Always Flooded
+75,ML92,5,8,2013,Dry,Kuril,OPP South,100,riverside,OPP,OPPRs,5.39159,118.06359,149.41,299,94.6,5.08,,7.5,175.6,107.2,70.2,0.4739,n,0,,,4,High canopy (>10m),21.6408,Always Flooded
+698,ML383,6,9,2016,Monsoon,Kuril,OPP South,100,riverside,OPP,OPPRs,5.39159,118.06359,149.41,299,94.6,5.08,,4.5,159.2,97.2,60,0.3674,p,1,7,0.11667,4,High canopy (>10m),21.6408,Always Flooded
+701,ML385,9,9,2016,Monsoon,Kuril,OPP South,100,riverside,OPP,OPPRs,5.39159,118.06359,149.41,299,94.6,5.08,,4,157.2,89.6,61.2,0.337,n,0,,,4,High canopy (>10m),21.6408,Always Flooded
+702,ML386,10,9,2016,Monsoon,Kuril,OPP South,100,riverside,OPP,OPPRs,5.39159,118.06359,149.41,299,94.6,5.08,,1.5,112.8,65.6,43.2,0.1077,p,1,1,0.02315,4,High canopy (>10m),21.6408,Always Flooded
+706,ML390,12,9,2016,Monsoon,Kuril,OPP South,100,riverside,OPP,OPPRs,5.39159,118.06359,149.41,299,94.6,5.08,,5,158,88.6,76.8,0.3707,n,0,,,4,High canopy (>10m),21.6408,Always Flooded
+709,ML393,16,9,2016,Monsoon,Kuril,OPP South,100,riverside,OPP,OPPRs,5.39159,118.06359,149.41,299,94.6,5.08,,5,189.4,111,71,0.3776,p,1,11,0.15493,4,High canopy (>10m),21.6408,Always Flooded
+713,ML393,16,9,2016,Monsoon,Kuril,OPP South,100,riverside,OPP,OPPRs,5.39159,118.06359,149.41,299,94.6,5.08,,5,189.4,111,71,0.3776,,0,,,4,High canopy (>10m),21.6408,Always Flooded
+714,ML385,9,9,2016,Monsoon,Kuril,OPP South,100,riverside,OPP,OPPRs,5.39159,118.06359,149.41,299,94.6,5.08,,4,157.2,89.6,61.2,0.337,,0,,,4,High canopy (>10m),21.6408,Always Flooded
+230,ML194,12,4,2014,Dry,KKL,OPP South,168,interior,OPP,OPPInt,5.39309,117.98273,141.169,299,41.86,5.08,,3,137.8,83,51.4,0.2789,p,1,18,0.35019,3,Low canopy (5-10m),22.2504,Seasonally flooded
+231,ML195,13,4,2014,Dry,KKL,OPP South,168,interior,OPP,OPPInt,5.39309,117.98273,141.169,299,41.86,5.08,,8.5,206.2,122.1,80.4,0.4878,p,1,1,0.01244,3,Low canopy (5-10m),22.2504,Seasonally flooded
+332,ML245,1,2,2015,Monsoon,KKL,OPP South,168,interior,OPP,OPPInt,5.39309,117.98273,141.169,299,41.86,5.08,,3.5,142.6,89,52.8,0.3158,p,1,1,0.01894,3,Low canopy (5-10m),22.2504,Seasonally flooded
+334,ML195,2,2,2015,Monsoon,KKL,OPP South,168,interior,OPP,OPPInt,5.39309,117.98273,141.169,299,41.86,5.08,,9.5,206.2,119.6,82.2,0.5106,p,1,6,0.07299,3,Low canopy (5-10m),22.2504,Seasonally flooded
+339,ML251,4,2,2015,Monsoon,KKL,OPP South,168,interior,OPP,OPPInt,5.39309,117.98273,141.169,299,41.86,5.08,,2,148.6,91.4,56.8,0.1716,p,1,6,0.10563,3,Low canopy (5-10m),22.2504,Seasonally flooded
+342,ML195,5,2,2015,Monsoon,KKL,OPP South,168,interior,OPP,OPPInt,5.39309,117.98273,141.169,299,41.86,5.08,,9.5,206.2,119.6,82.2,0.5106,,0,,,3,Low canopy (5-10m),22.2504,Seasonally flooded
+345,ML253,11,2,2015,Monsoon,KKL,OPP South,168,interior,OPP,OPPInt,5.39309,117.98273,141.169,299,41.86,5.08,,3,132.6,79,50.4,0.2803,p,1,12,0.2381,3,Low canopy (5-10m),22.2504,Seasonally flooded
+633,ML256,19,6,2016,Dry,KKL,OPP South,168,interior,OPP,OPPInt,5.39309,117.98273,141.169,299,41.86,5.08,,10,205,123.2,75,0.5333,p,1,13,0.17333,3,Low canopy (5-10m),22.2504,Seasonally flooded
+635,ML364,21,6,2016,Dry,KKL,OPP South,168,interior,OPP,OPPInt,5.39309,117.98273,141.169,299,41.86,5.08,,2,124.6,77.2,46.6,0.1804,p,1,19,0.40773,3,Low canopy (5-10m),22.2504,Seasonally flooded
+235,ML199,18,4,2014,Dry,KKL,OPP South,168,interior,OPP,OPPInt,5.3958,117.9826,141.169,299,41.86,5.08,,,,,,,,0,,,4,High canopy (>10m),22.5552,Seasonally flooded
+241,ML204,26,4,2014,Dry,KKL,OPP South,168,interior,OPP,OPPInt,5.3958,117.9826,141.169,299,41.86,5.08,,5,169,100.6,67.4,0.3822,p,1,1,0.01484,4,High canopy (>10m),22.5552,Seasonally flooded
+337,ML249,3,2,2015,Monsoon,KKL,OPP South,168,interior,OPP,OPPInt,5.3958,117.9826,141.169,299,41.86,5.08,,6,163,100.8,62,0.4341,p,1,10,0.16129,4,High canopy (>10m),22.5552,Seasonally flooded
+341,ML249,5,2,2015,Monsoon,KKL,OPP South,168,interior,OPP,OPPInt,5.3958,117.9826,141.169,299,41.86,5.08,,6,163,100.8,62,0.4341,,0,,,4,High canopy (>10m),22.5552,Seasonally flooded
+346,ML204,12,2,2015,Monsoon,KKL,OPP South,168,interior,OPP,OPPInt,5.3958,117.9826,141.169,299,41.86,5.08,,6,174.8,103,68.4,0.424,p,1,9,0.13158,4,High canopy (>10m),22.5552,Seasonally flooded
+352,ML249,21,2,2015,Monsoon,KKL,OPP South,168,interior,OPP,OPPInt,5.3958,117.9826,141.169,299,41.86,5.08,,6,163,100.8,62,0.4341,,0,,,4,High canopy (>10m),22.5552,Seasonally flooded
+499,ML200,7,9,2015,Monsoon,KKL,OPP South,168,interior,OPP,OPPInt,5.3958,117.9826,141.169,299,41.86,5.08,,12.5,215,127,85.6,0.5676,p,1,18,0.21028,4,High canopy (>10m),22.5552,Seasonally flooded
+632,ML362,19,6,2016,Dry,KKL,OPP South,168,interior,OPP,OPPInt,5.3958,117.9826,141.169,299,41.86,5.08,,1.1,9.8,54,43.2,0.0253,p,1,7,0.16204,4,High canopy (>10m),22.5552,Seasonally flooded
+636,ML365,29,6,2016,Dry,KKL,OPP South,168,interior,OPP,OPPInt,5.3958,117.9826,141.169,299,41.86,5.08,,3.5,140.8,84.5,55,0.3126,p,1,18,0.32727,4,High canopy (>10m),22.5552,Seasonally flooded
+159,ML140,24,1,2014,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.39703,117.97493,141.169,299,41.86,5.08,,5.5,165,97.8,68.2,0.4037,p,1,6,0.08798,4,High canopy (>10m),22.86,Seasonally flooded
+162,ML143,25,1,2014,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.39703,117.97493,141.169,299,41.86,5.08,,4,150.2,92.2,59.4,0.3394,p,1,8,0.13468,4,High canopy (>10m),22.86,Seasonally flooded
+163,ML144,26,1,2014,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.39703,117.97493,141.169,299,41.86,5.08,,7,173.4,105.2,67.8,0.4615,p,1,10,0.14749,4,High canopy (>10m),22.86,Seasonally flooded
+166,ML147,27,1,2014,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.39703,117.97493,141.169,299,41.86,5.08,,2.5,120.3,74,36.8,0.2541,p,1,4,0.1087,4,High canopy (>10m),22.86,Seasonally flooded
+170,ML144,28,1,2014,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.39703,117.97493,141.169,299,41.86,5.08,,7,173.4,105.2,67.8,0.4615,,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+177,ML156,29,1,2014,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.39703,117.97493,141.169,299,41.86,5.08,,,,,,,,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+280,ML138,4,7,2014,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.39703,117.97493,141.169,299,41.86,5.08,,16.5,229.2,131.2,97,0.6128,p,1,7,0.07216,4,High canopy (>10m),22.86,Seasonally flooded
+282,ML143,6,7,2014,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.39703,117.97493,141.169,299,41.86,5.08,,4.5,154.2,93.6,61.2,0.3656,p,1,7,0.11438,4,High canopy (>10m),22.86,Seasonally flooded
+286,ML144,7,7,2014,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.39703,117.97493,141.169,299,41.86,5.08,,6.5,174.6,106,70,0.4406,,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+290,ML229,9,7,2014,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.39703,117.97493,141.169,299,41.86,5.08,,2.5,127,78.4,47.4,0.2375,p,1,2,0.04219,4,High canopy (>10m),22.86,Seasonally flooded
+293,ML143,11,7,2014,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.39703,117.97493,141.169,299,41.86,5.08,,4.5,154.2,93.6,61.2,0.3656,,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+296,ML143,12,7,2014,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.39703,117.97493,141.169,299,41.86,5.08,,2.5,130.1,77.4,52.4,0.2315,p,1,4,0.07634,4,High canopy (>10m),22.86,Seasonally flooded
+298,ML233,13,7,2014,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.39703,117.97493,141.169,299,41.86,5.08,,4.5,152.4,90.6,59.4,0.3683,p,1,3,0.05051,4,High canopy (>10m),22.86,Seasonally flooded
+301,ML234,15,7,2014,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.39703,117.97493,141.169,299,41.86,5.08,,6.25,161.7,94.4,66,0.4374,p,1,4,0.06061,4,High canopy (>10m),22.86,Seasonally flooded
+318,ML243,18,1,2015,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.39703,117.97493,141.169,299,41.86,5.08,,2,112.6,67,43.2,0.1841,n,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+321,ML229,20,1,2015,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.39703,117.97493,141.169,299,41.86,5.08,,3.5,136,84.6,52.4,0.3164,p,1,1,0.01908,4,High canopy (>10m),22.86,Seasonally flooded
+322,ML143,22,1,2015,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.39703,117.97493,141.169,299,41.86,5.08,,4.5,148.2,80.2,61.2,0.3656,p,1,10,0.1634,4,High canopy (>10m),22.86,Seasonally flooded
+325,ML148,23,1,2015,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.39703,117.97493,141.169,299,41.86,5.08,,6,168,100,66,0.4277,,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+330,ML144,24,1,2015,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.39703,117.97493,141.169,299,41.86,5.08,,8,179,105,69.4,0.4904,p,1,1,0.01441,4,High canopy (>10m),22.86,Seasonally flooded
+331,ML229,25,1,2015,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.39703,117.97493,141.169,299,41.86,5.08,,3.5,136,84.6,52.4,0.3164,,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+593,ML345,25,4,2016,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.39703,117.97493,141.169,299,41.86,5.08,,1.5,114.2,67.2,34.4,0.1146,n,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+596,ML143,28,4,2016,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.39703,117.97493,141.169,299,41.86,5.08,,4.5,157.4,92.4,64.4,0.3611,p,1,4,0.06211,4,High canopy (>10m),22.86,Seasonally flooded
+599,ML347,29,4,2016,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.39703,117.97493,141.169,299,41.86,5.08,,3.5,146,88.8,53.8,0.3143,p,1,4,0.07435,4,High canopy (>10m),22.86,Seasonally flooded
+600,ML228,30,4,2016,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.39703,117.97493,141.169,299,41.86,5.08,,10.5,177.6,86,79.2,0.5378,p,1,7,0.08838,4,High canopy (>10m),22.86,Seasonally flooded
+606,ML143,3,5,2016,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.39703,117.97493,141.169,299,41.86,5.08,,4.5,157.4,92.4,64.4,0.3611,,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+609,ML353,4,5,2016,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.39703,117.97493,141.169,299,41.86,5.08,,3.5,142.4,85.6,54.2,0.3138,p,1,4,0.0738,4,High canopy (>10m),22.86,Seasonally flooded
+610,ML354,5,5,2016,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.39703,117.97493,141.169,299,41.86,5.08,,3,139,86,52.9,0.2768,p,1,2,0.03781,4,High canopy (>10m),22.86,Seasonally flooded
+611,ML345,5,5,2016,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.39703,117.97493,141.169,299,41.86,5.08,,1.5,114.2,67.2,34.4,0.1146,,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+614,ML246,13,5,2016,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.39703,117.97493,141.169,299,41.86,5.08,,6.5,164,93.2,72,0.4377,p,1,3,0.04167,4,High canopy (>10m),22.86,Seasonally flooded
+616,ML241,15,5,2016,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.39703,117.97493,141.169,299,41.86,5.08,,4.5,157,65.2,93.4,0.3315,,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+620,ML143,17,5,2016,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.39703,117.97493,141.169,299,41.86,5.08,,4.5,157.4,92.4,64.4,0.3611,,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+625,ML358,20,5,2016,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.39703,117.97493,141.169,299,41.86,5.08,,1.5,112.4,70.4,43,0.1078,n,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+197,ML168,15,2,2014,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.39927,118.02771,75.44,1439,27.49,13.55,,13.5,182,93,90.8,0.5773,p,1,7,0.07709,4,High canopy (>10m),23.7744,Seasonally flooded
+207,ML174,26,2,2014,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.39927,118.02771,75.44,1439,27.49,13.55,,5,157.8,94,67,0.3828,n,1,,,4,High canopy (>10m),23.7744,Seasonally flooded
+209,ML176,1,3,2014,Dry,LOT 6,Forest South,170,interior,FOREST,Fint,5.39927,118.02771,75.44,1439,27.49,13.55,,3.5,147.2,89,55.4,0.3121,p,1,2,0.0361,4,High canopy (>10m),23.7744,Seasonally flooded
+211,ML174,3,3,2014,Dry,LOT 6,Forest South,170,interior,FOREST,Fint,5.39927,118.02771,75.44,1439,27.49,13.55,,5,157.8,94,67,0.3828,,0,,,4,High canopy (>10m),23.7744,Seasonally flooded
+513,ML325,14,9,2015,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.39927,118.02771,75.44,1439,27.49,13.55,,2,119.8,71.2,45.6,0.1815,p,1,1,0.02193,4,High canopy (>10m),23.7744,Seasonally flooded
+516,ML325,15,9,2015,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.39927,118.02771,75.44,1439,27.49,13.55,,2,119.8,71.2,45.6,0.1815,,0,,,4,High canopy (>10m),23.7744,Seasonally flooded
+537,ML321,21,9,2015,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.39927,118.02771,75.44,1439,27.49,13.55,,3,153.2,91,59,0.2694,,0,,,4,High canopy (>10m),23.7744,Seasonally flooded
+678,ML321,11,8,2016,Dry,LOT 6,Forest South,170,interior,FOREST,Fint,5.39927,118.02771,75.44,1439,27.49,13.55,,3.5,150.2,91.6,59.8,0.3062,p,1,6,0.10033,4,High canopy (>10m),23.7744,Seasonally flooded
+685,ML379,23,8,2016,Dry,LOT 6,Forest South,170,interior,FOREST,Fint,5.39927,118.02771,75.44,1439,27.49,13.55,,2.5,183.6,79,59.6,0.2242,,0,,,4,High canopy (>10m),23.7744,Seasonally flooded
+688,ML381,24,8,2016,Dry,LOT 6,Forest South,170,interior,FOREST,Fint,5.39927,118.02771,75.44,1439,27.49,13.55,,15,205.4,116,89,0.6033,p,1,12,0.13483,4,High canopy (>10m),23.7744,Seasonally flooded
+691,ML321,25,8,2016,Dry,LOT 6,Forest South,170,interior,FOREST,Fint,5.39927,118.02771,75.44,1439,27.49,13.55,,3.5,150.2,91.6,59.8,0.3062,,0,,,4,High canopy (>10m),23.7744,Seasonally flooded
+696,ML321,3,9,2016,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.39927,118.02771,75.44,1439,27.49,13.55,,3.5,150.2,91.6,59.8,0.3062,,0,,,4,High canopy (>10m),23.7744,Seasonally flooded
+165,ML146,27,1,2014,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.39965,117.97452,141.169,299,41.86,5.08,,14,208.6,133.5,85.6,0.5931,p,1,3,0.03505,4,High canopy (>10m),22.5552,Seasonally flooded
+169,ML149,28,1,2014,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.39965,117.97452,141.169,299,41.86,5.08,,9.5,191.8,115.8,76.2,0.5195,p,1,17,0.2231,4,High canopy (>10m),22.5552,Seasonally flooded
+270,ML148,30,6,2014,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.39965,117.97452,141.169,299,41.86,5.08,,6.75,162.4,100.4,62.8,0.4612,p,1,3,0.04777,4,High canopy (>10m),22.5552,Seasonally flooded
+275,ML144,2,7,2014,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.39965,117.97452,141.169,299,41.86,5.08,,6.5,174.6,106,70,0.4406,p,1,2,0.02857,4,High canopy (>10m),22.5552,Seasonally flooded
+285,ML226,7,7,2014,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.39965,117.97452,141.169,299,41.86,5.08,,22.5,241,132,103.6,0.6709,p,1,12,0.11583,4,High canopy (>10m),22.5552,Seasonally flooded
+292,ML231,11,7,2014,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.39965,117.97452,141.169,299,41.86,5.08,,1.5,107.2,65.6,40.6,0.1095,n,0,,,4,High canopy (>10m),22.5552,Seasonally flooded
+295,ML223,12,7,2014,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.39965,117.97452,141.169,299,41.86,5.08,,3.5,138.2,80.8,54,0.3141,,0,,,4,High canopy (>10m),22.5552,Seasonally flooded
+300,ML225,15,7,2014,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.39965,117.97452,141.169,299,41.86,5.08,,3.5,141.8,84,56.8,0.3101,,0,,,4,High canopy (>10m),22.5552,Seasonally flooded
+305,ML223,10,1,2015,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.39965,117.97452,141.169,299,41.86,5.08,,3.5,139,82.2,51.4,0.318,p,1,4,0.07782,4,High canopy (>10m),22.5552,Seasonally flooded
+306,ML148,11,1,2015,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.39965,117.97452,141.169,299,41.86,5.08,,6,168,100,66,0.4277,p,1,11,0.16667,4,High canopy (>10m),22.5552,Seasonally flooded
+329,ML223,24,1,2015,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.39965,117.97452,141.169,299,41.86,5.08,,3.5,139,82.2,51.4,0.318,n,0,,,4,High canopy (>10m),22.5552,Seasonally flooded
+595,ML229,28,4,2016,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.39965,117.97452,141.169,299,41.86,5.08,,5.5,157.2,93.2,61.8,0.4134,p,1,2,0.03236,4,High canopy (>10m),22.5552,Seasonally flooded
+602,ML349,2,5,2016,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.39965,117.97452,141.169,299,41.86,5.08,,2.5,129,79,52,0.2319,p,1,3,0.05769,4,High canopy (>10m),22.5552,Seasonally flooded
+605,ML223,3,5,2016,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.39965,117.97452,141.169,299,41.86,5.08,,4,149.4,89,60.2,0.3383,p,1,4,0.06645,4,High canopy (>10m),22.5552,Seasonally flooded
+157,ML138,24,1,2014,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.40032,117.9814,141.169,299,41.86,5.08,,17.5,231.2,131,96.4,0.6265,n,0,,,4,High canopy (>10m),22.5552,Seasonally flooded
+160,ML141,25,1,2014,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.40032,117.9814,141.169,299,41.86,5.08,,17,228.9,144.5,90.4,0.629,p,1,1,0.01106,4,High canopy (>10m),22.5552,Seasonally flooded
+268,ML145,30,6,2014,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40032,117.9814,141.169,299,41.86,5.08,,5,155,89.4,64.4,0.3864,p,1,4,0.06211,4,High canopy (>10m),22.5552,Seasonally flooded
+271,ML219,1,7,2014,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40032,117.9814,141.169,299,41.86,5.08,,9,181,105.2,76.8,0.5061,p,1,2,0.02604,4,High canopy (>10m),22.5552,Seasonally flooded
+273,ML220,2,7,2014,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40032,117.9814,141.169,299,41.86,5.08,,2.5,134.4,82.8,49,0.2354,p,1,2,0.04082,4,High canopy (>10m),22.5552,Seasonally flooded
+276,ML222,3,7,2014,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40032,117.9814,141.169,299,41.86,5.08,,2.5,136,79,50,0.2342,p,1,9,0.18,4,High canopy (>10m),22.5552,Seasonally flooded
+279,ML224,4,7,2014,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40032,117.9814,141.169,299,41.86,5.08,,3,143.2,88.4,53.7,0.2758,p,1,8,0.14898,4,High canopy (>10m),22.5552,Seasonally flooded
+287,ML227,8,7,2014,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40032,117.9814,141.169,299,41.86,5.08,,5.5,165.4,95.2,66.6,0.406,p,1,8,0.12012,4,High canopy (>10m),22.5552,Seasonally flooded
+288,ML222,9,7,2014,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40032,117.9814,141.169,299,41.86,5.08,,2.5,136,79,50,0.2342,,0,,,4,High canopy (>10m),22.5552,Seasonally flooded
+299,ML230,15,7,2014,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40032,117.9814,141.169,299,41.86,5.08,,6,167.2,100.7,65.9,0.4278,p,1,2,0.03035,4,High canopy (>10m),22.5552,Seasonally flooded
+311,ML240,15,1,2015,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.40032,117.9814,141.169,299,41.86,5.08,,3.5,147,86.6,59,0.3072,p,1,9,0.15254,4,High canopy (>10m),22.5552,Seasonally flooded
+314,ML145,17,1,2015,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.40032,117.9814,141.169,299,41.86,5.08,,5.5,156.2,89,66,0.4069,p,1,8,0.12121,4,High canopy (>10m),22.5552,Seasonally flooded
+316,ML242,18,1,2015,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.40032,117.9814,141.169,299,41.86,5.08,,4,153.8,92.2,60.8,0.3375,p,1,6,0.09868,4,High canopy (>10m),22.5552,Seasonally flooded
+323,ML224,23,1,2015,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.40032,117.9814,141.169,299,41.86,5.08,,3.5,147.8,94.4,54.2,0.3138,p,1,1,0.01845,4,High canopy (>10m),22.5552,Seasonally flooded
+326,ML242,24,1,2015,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.40032,117.9814,141.169,299,41.86,5.08,,4,153.8,92.2,60.8,0.3375,,0,,,4,High canopy (>10m),22.5552,Seasonally flooded
+498,ML141,4,9,2015,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.40032,117.9814,141.169,299,41.86,5.08,,18,224.6,128,95.2,0.6344,p,1,10,0.10504,4,High canopy (>10m),22.5552,Seasonally flooded
+597,ML346,29,4,2016,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40032,117.9814,141.169,299,41.86,5.08,,,,,,,,0,,,4,High canopy (>10m),22.5552,Seasonally flooded
+603,ML350,3,5,2016,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40032,117.9814,141.169,299,41.86,5.08,,2.5,146.2,89,56.6,0.227,p,1,2,0.03534,4,High canopy (>10m),22.5552,Seasonally flooded
+607,ML352,4,5,2016,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40032,117.9814,141.169,299,41.86,5.08,,3.5,154.6,94,68,0.2969,p,1,3,0.04412,4,High canopy (>10m),22.5552,Seasonally flooded
+612,ML350,13,5,2016,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40032,117.9814,141.169,299,41.86,5.08,,2.5,146.2,89,56.6,0.227,,0,,,4,High canopy (>10m),22.5552,Seasonally flooded
+617,ML350,17,5,2016,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40032,117.9814,141.169,299,41.86,5.08,,2.5,146.2,89,56.6,0.227,,0,,,4,High canopy (>10m),22.5552,Seasonally flooded
+621,ML357,18,5,2016,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40032,117.9814,141.169,299,41.86,5.08,,2.5,124.2,73.2,51.8,0.2321,p,1,5,0.09653,4,High canopy (>10m),22.5552,Seasonally flooded
+622,ML357,20,5,2016,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40032,117.9814,141.169,299,41.86,5.08,,2.5,124.2,73.2,51.8,0.2321,,0,,,4,High canopy (>10m),22.5552,Seasonally flooded
+158,ML139,24,1,2014,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.40087,117.97869,141.169,299,41.86,5.08,,3,137,81.8,54.6,0.2747,p,1,1,0.01832,4,High canopy (>10m),21.9456,Seasonally flooded
+161,ML142,25,1,2014,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.40087,117.97869,141.169,299,41.86,5.08,,2.5,130.4,81,50.8,0.2333,p,1,4,0.07874,4,High canopy (>10m),21.9456,Seasonally flooded
+164,ML145,27,1,2014,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.40087,117.97869,141.169,299,41.86,5.08,,2,169.4,97,60,0.1693,p,1,3,0.05,4,High canopy (>10m),21.9456,Seasonally flooded
+167,ML145,28,1,2014,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.40087,117.97869,141.169,299,41.86,5.08,,2,169.4,97,60,0.1693,,0,,,4,High canopy (>10m),21.9456,Seasonally flooded
+171,ML154,29,1,2014,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.40087,117.97869,141.169,299,41.86,5.08,,15.5,222.6,122,92.2,0.6058,p,1,5,0.05423,4,High canopy (>10m),21.9456,Seasonally flooded
+269,ML142,30,6,2014,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40087,117.97869,141.169,299,41.86,5.08,,3,137.2,92.8,54.6,0.2747,p,1,2,0.03663,4,High canopy (>10m),21.9456,Seasonally flooded
+272, ML139,1,7,2014,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40087,117.97869,141.169,299,41.86,5.08,,2,133,77.8,55.1,0.1729,p,1,7,0.12704,4,High canopy (>10m),21.9456,Seasonally flooded
+274,ML221,2,7,2014,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40087,117.97869,141.169,299,41.86,5.08,,7,142.7,70.2,72.2,0.4547,p,1,25,0.34626,4,High canopy (>10m),21.9456,Seasonally flooded
+277,ML142,3,7,2014,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40087,117.97869,141.169,299,41.86,5.08,,3,137.2,92.8,54.6,0.2747,,0,,,4,High canopy (>10m),21.9456,Seasonally flooded
+283,ML221,7,7,2014,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40087,117.97869,141.169,299,41.86,5.08,,7,142.7,70.2,72.2,0.4547,,0,,,4,High canopy (>10m),21.9456,Seasonally flooded
+291,ML219,10,7,2014,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40087,117.97869,141.169,299,41.86,5.08,,9,181,105.2,76.8,0.5061,,0,,,4,High canopy (>10m),21.9456,Seasonally flooded
+302,ML235,16,7,2014,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40087,117.97869,141.169,299,41.86,5.08,,12.75,207.2,123,86.4,0.5709,p,1,1,0.01157,4,High canopy (>10m),21.9456,Seasonally flooded
+304,ML236,10,1,2015,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.40087,117.97869,141.169,299,41.86,5.08,,2.5,122.8,71.4,50.8,0.2333,p,1,1,0.01969,4,High canopy (>10m),21.9456,Seasonally flooded
+308,ML236,14,1,2015,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.40087,117.97869,141.169,299,41.86,5.08,,2.5,122.8,71.4,50.8,0.2333,n,0,,,4,High canopy (>10m),21.9456,Seasonally flooded
+309,ML238,14,1,2015,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.40087,117.97869,141.169,299,41.86,5.08,,4,141,84,59.2,0.3397,p,1,4,0.06757,4,High canopy (>10m),21.9456,Seasonally flooded
+313,ML241,16,1,2015,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.40087,117.97869,141.169,299,41.86,5.08,,3,138.8,81,55.4,0.2737,n,1,,,4,High canopy (>10m),21.9456,Seasonally flooded
+315,ML220,17,1,2015,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.40087,117.97869,141.169,299,41.86,5.08,,2.5,135,82.6,51.2,0.2328,p,1,3,0.05859,4,High canopy (>10m),21.9456,Seasonally flooded
+317,ML241,18,1,2015,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.40087,117.97869,141.169,299,41.86,5.08,,3,138.8,81,55.4,0.2737,,0,,,4,High canopy (>10m),21.9456,Seasonally flooded
+319,ML232,20,1,2015,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.40087,117.97869,141.169,299,41.86,5.08,,7.5,181.4,110.8,68.8,0.4762,p,1,3,0.0436,4,High canopy (>10m),21.9456,Seasonally flooded
+327,ML220,24,1,2015,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.40087,117.97869,141.169,299,41.86,5.08,,2.5,135,82.6,51.2,0.2328,,0,,,4,High canopy (>10m),21.9456,Seasonally flooded
+592,ML241,25,4,2016,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40087,117.97869,141.169,299,41.86,5.08,,4.5,157,65.2,93.4,0.3315,p,1,4,0.04283,4,High canopy (>10m),21.9456,Seasonally flooded
+594,ML145,28,4,2016,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40087,117.97869,141.169,299,41.86,5.08,,10.5,184.6,104,78.4,0.5391,p,1,6,0.07653,4,High canopy (>10m),21.9456,Seasonally flooded
+598,ML219,29,4,2016,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40087,117.97869,141.169,299,41.86,5.08,,12,176.2,97,82.4,0.5633,p,1,3,0.03641,4,High canopy (>10m),21.9456,Seasonally flooded
+601,ML348,2,5,2016,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40087,117.97869,141.169,299,41.86,5.08,,2,142.8,80.4,51.8,0.1756,p,1,1,0.01931,4,High canopy (>10m),21.9456,Seasonally flooded
+604,ML351,3,5,2016,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40087,117.97869,141.169,299,41.86,5.08,,2,123.2,74.6,48.8,0.1783,p,1,4,0.08197,4,High canopy (>10m),21.9456,Seasonally flooded
+608,ML145,4,5,2016,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40087,117.97869,141.169,299,41.86,5.08,,10.5,184.6,104,78.4,0.5391,p,1,6,0.07653,4,High canopy (>10m),21.9456,Seasonally flooded
+613,ML355,13,5,2016,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40087,117.97869,141.169,299,41.86,5.08,,1.5,127.4,74.4,49.6,0.1039,p,1,1,0.02016,4,High canopy (>10m),21.9456,Seasonally flooded
+615,ML356,14,5,2016,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40087,117.97869,141.169,299,41.86,5.08,,3.5,141.6,85.4,56,0.3112,p,1,2,0.03571,4,High canopy (>10m),21.9456,Seasonally flooded
+618,ML348,17,5,2016,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40087,117.97869,141.169,299,41.86,5.08,,2,142.8,80.4,51.8,0.1756,,0,,,4,High canopy (>10m),21.9456,Seasonally flooded
+623,ML355,20,5,2016,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40087,117.97869,141.169,299,41.86,5.08,,1.5,127.4,74.4,49.6,0.1039,,0,,,4,High canopy (>10m),21.9456,Seasonally flooded
+200,ML171,19,2,2014,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.40118,118.02989,75.44,1439,27.49,13.55,,9.5,186,104.2,75.6,0.5205,p,1,13,0.17196,4,High canopy (>10m),23.4696,Seasonally flooded
+201,ML171,20,2,2014,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.40118,118.02989,75.44,1439,27.49,13.55,,9.5,186,104.2,75.6,0.5205,,0,,,4,High canopy (>10m),23.4696,Seasonally flooded
+205,ML162,24,2,2014,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.40118,118.02989,75.44,1439,27.49,13.55,,18.5,224.2,140.4,90.8,0.6471,n,0,,,4,High canopy (>10m),23.4696,Seasonally flooded
+206,ML169,26,2,2014,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.40118,118.02989,75.44,1439,27.49,13.55,,3,141,85,56,0.2729,n,0,,,4,High canopy (>10m),23.4696,Seasonally flooded
+210,ML177,3,3,2014,Dry,LOT 6,Forest South,170,interior,FOREST,Fint,5.40118,118.02989,75.44,1439,27.49,13.55,,3.5,147.8,90.6,56,0.3112,p,1,7,0.125,4,High canopy (>10m),23.4696,Seasonally flooded
+525,ML322,18,9,2015,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.40118,118.02989,75.44,1439,27.49,13.55,,4.5,157,91.2,65.6,0.3595,,0,,,4,High canopy (>10m),23.4696,Seasonally flooded
+529,ML320,19,9,2015,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.40118,118.02989,75.44,1439,27.49,13.55,,6.5,173.4,98.6,71.2,0.4388,,0,,,4,High canopy (>10m),23.4696,Seasonally flooded
+536,ML319,21,9,2015,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.40118,118.02989,75.44,1439,27.49,13.55,,2,115,64.8,49.8,0.1774,,0,,,4,High canopy (>10m),23.4696,Seasonally flooded
+674,ML379,6,8,2016,Dry,LOT 6,Forest South,170,interior,FOREST,Fint,5.40118,118.02989,75.44,1439,27.49,13.55,,2.5,183.6,79,59.6,0.2242,p,1,1,0.01678,4,High canopy (>10m),23.4696,Seasonally flooded
+676,ML379,7,8,2016,Dry,LOT 6,Forest South,170,interior,FOREST,Fint,5.40118,118.02989,75.44,1439,27.49,13.55,,2.5,183.6,79,59.6,0.2242,,0,,,4,High canopy (>10m),23.4696,Seasonally flooded
+693,ML320,2,9,2016,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.40118,118.02989,75.44,1439,27.49,13.55,,10,176.2,101,73.6,0.5357,p,1,10,0.13587,4,High canopy (>10m),23.4696,Seasonally flooded
+695,ML332,4,9,2016,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.40118,118.02989,75.44,1439,27.49,13.55,,4.5,155.6,94,63.6,0.3622,,0,,,4,High canopy (>10m),23.4696,Seasonally flooded
+168,ML148,28,1,2014,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.40177,117.97599,141.169,299,41.86,5.08,,3.5,150.2,93.6,52.4,0.3164,p,1,3,0.05725,3,Low canopy (5-10m),22.2504,Seasonally flooded
+176,ML155,29,1,2014,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.40177,117.97599,141.169,299,41.86,5.08,,,,,,,,0,,,3,Low canopy (5-10m),22.2504,Seasonally flooded
+278,ML223,3,7,2014,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40177,117.97599,141.169,299,41.86,5.08,,3.5,138.2,80.8,54,0.3141,p,1,2,0.03704,3,Low canopy (5-10m),22.2504,Seasonally flooded
+281,ML225,6,7,2014,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40177,117.97599,141.169,299,41.86,5.08,,3.5,141.8,84,56.8,0.3101,p,1,8,0.14085,3,Low canopy (5-10m),22.2504,Seasonally flooded
+284,ML148,7,7,2014,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40177,117.97599,141.169,299,41.86,5.08,,6.75,162.4,100.4,62.8,0.4612,,0,,,3,Low canopy (5-10m),22.2504,Seasonally flooded
+289,ML228,9,7,2014,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40177,117.97599,141.169,299,41.86,5.08,,4.25,146.2,81.2,63.4,0.3487,p,1,7,0.11041,3,Low canopy (5-10m),22.2504,Seasonally flooded
+294,ML232,12,7,2014,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40177,117.97599,141.169,299,41.86,5.08,,5,169.4,107.4,60.6,0.3921,p,1,12,0.19802,3,Low canopy (5-10m),22.2504,Seasonally flooded
+297,ML139,13,7,2014,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40177,117.97599,141.169,299,41.86,5.08,,2,133,77.8,55.1,0.1729,,0,,,3,Low canopy (5-10m),22.2504,Seasonally flooded
+303,ML232,16,7,2014,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40177,117.97599,141.169,299,41.86,5.08,,5,169.4,107.4,60.6,0.3921,,0,,,3,Low canopy (5-10m),22.2504,Seasonally flooded
+307,ML237,13,1,2015,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.40177,117.97599,141.169,299,41.86,5.08,,4.5,152.4,89.2,65.2,0.36,n,0,,,3,Low canopy (5-10m),22.2504,Seasonally flooded
+310,ML239,14,1,2015,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.40177,117.97599,141.169,299,41.86,5.08,,2.5,118.8,68.8,48.2,0.2364,n,0,,,3,Low canopy (5-10m),22.2504,Seasonally flooded
+312,ML225,15,1,2015,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.40177,117.97599,141.169,299,41.86,5.08,,3.5,142.6,85.4,58.4,0.308,p,1,10,0.17123,3,Low canopy (5-10m),22.2504,Seasonally flooded
+320,ML244,20,1,2015,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.40177,117.97599,141.169,299,41.86,5.08,,5.5,162.6,96.2,76.8,0.3927,p,1,12,0.15625,3,Low canopy (5-10m),22.2504,Seasonally flooded
+324,ML225,23,1,2015,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.40177,117.97599,141.169,299,41.86,5.08,,3.5,142.6,85.4,58.4,0.308,,0,,,3,Low canopy (5-10m),22.2504,Seasonally flooded
+328,ML149,24,1,2015,Monsoon,KKL,OPP South,168,riverside,OPP,OPPRs,5.40177,117.97599,141.169,299,41.86,5.08,,12,193.4,112.8,79,0.5687,p,1,6,0.07595,3,Low canopy (5-10m),22.2504,Seasonally flooded
+619,ML145,17,5,2016,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40177,117.97599,141.169,299,41.86,5.08,,10.5,184.6,104,78.4,0.5391,,0,,,3,Low canopy (5-10m),22.2504,Seasonally flooded
+624,ML219,20,5,2016,Dry,KKL,OPP South,168,riverside,OPP,OPPRs,5.40177,117.97599,141.169,299,41.86,5.08,,12,176.2,97,82.4,0.5633,,0,,,3,Low canopy (5-10m),22.2504,Seasonally flooded
+198,ML169,17,2,2014,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.40318,118.03122,75.44,1439,27.49,13.55,,3,141,85,56,0.2729,p,1,6,0.10714,4,High canopy (>10m),23.1648,Seasonally flooded
+199,ML170,18,2,2014,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.40318,118.03122,75.44,1439,27.49,13.55,,13,197.8,116.2,83.6,0.5795,p,1,17,0.20335,4,High canopy (>10m),23.1648,Seasonally flooded
+203,ML173,22,2,2014,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.40318,118.03122,75.44,1439,27.49,13.55,,12,197.6,116,81,0.5655,n,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+204,ML169,24,2,2014,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.40318,118.03122,75.44,1439,27.49,13.55,,3,141,85,56,0.2729,n,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+493,ML319,26,8,2015,Dry,LOT 6,Forest South,170,interior,FOREST,Fint,5.40318,118.03122,75.44,1439,27.49,13.55,,2,115,64.8,49.8,0.1774,p,1,12,0.24096,4,High canopy (>10m),23.1648,Seasonally flooded
+496,ML319,27,8,2015,Dry,LOT 6,Forest South,170,interior,FOREST,Fint,5.40318,118.03122,75.44,1439,27.49,13.55,,2,115,64.8,49.8,0.1774,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+504,ML321,10,9,2015,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.40318,118.03122,75.44,1439,27.49,13.55,,3,153.2,91,59,0.2694,p,1,3,0.05085,4,High canopy (>10m),23.1648,Seasonally flooded
+508,ML322,12,9,2015,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.40318,118.03122,75.44,1439,27.49,13.55,,4.5,157,91.2,65.6,0.3595,p,1,14,0.21341,4,High canopy (>10m),23.1648,Seasonally flooded
+512,3,14,9,2015,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.40318,118.03122,75.44,1439,27.49,13.55,,4.5,154.2,99.2,64.4,0.3611,p,1,15,0.23292,4,High canopy (>10m),23.1648,Seasonally flooded
+515,ML324,15,9,2015,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.40318,118.03122,75.44,1439,27.49,13.55,,4.5,73.8,9.8,63.4,0.3625,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+519,ML322,16,9,2015,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.40318,118.03122,75.44,1439,27.49,13.55,,4.5,157,91.2,65.6,0.3595,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+522,ML319,17,9,2015,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.40318,118.03122,75.44,1439,27.49,13.55,,2,115,64.8,49.8,0.1774,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+528,ML325,19,9,2015,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.40318,118.03122,75.44,1439,27.49,13.55,,2,119.8,71.2,45.6,0.1815,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+532,ML320,20,9,2015,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.40318,118.03122,75.44,1439,27.49,13.55,,6.5,173.4,98.6,71.2,0.4388,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+535,ML327,21,9,2015,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.40318,118.03122,75.44,1439,27.49,13.55,,3.5,147,89.4,56.6,0.3104,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+673,ML174,6,8,2016,Dry,LOT 6,Forest South,170,interior,FOREST,Fint,5.40318,118.03122,75.44,1439,27.49,13.55,,10,195,115.8,79.2,0.5267,p,1,8,0.10101,4,High canopy (>10m),23.1648,Seasonally flooded
+681,ML326,21,8,2016,Dry,LOT 6,Forest South,170,interior,FOREST,Fint,5.40318,118.03122,75.44,1439,27.49,13.55,,13.5,203.2,114.2,89.8,0.5787,p,1,11,0.12249,4,High canopy (>10m),23.1648,Seasonally flooded
+683,ML321,22,8,2016,Dry,LOT 6,Forest South,170,interior,FOREST,Fint,5.40318,118.03122,75.44,1439,27.49,13.55,,3.5,150.2,91.6,59.8,0.3062,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+687,ML380,24,8,2016,Dry,LOT 6,Forest South,170,interior,FOREST,Fint,5.40318,118.03122,75.44,1439,27.49,13.55,,4,142,83.6,59,0.34,p,1,18,0.30508,4,High canopy (>10m),23.1648,Seasonally flooded
+690,ML158,25,8,2016,Dry,LOT 6,Forest South,170,interior,FOREST,Fint,5.40318,118.03122,75.44,1439,27.49,13.55,,3.1,133,79.2,51.2,0.2875,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+692,ML171,1,9,2016,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.40318,118.03122,75.44,1439,27.49,13.55,,12.5,188.2,102.4,88.6,0.5633,p,1,4,0.04515,4,High canopy (>10m),23.1648,Seasonally flooded
+156,ML137,19,1,2014,Monsoon,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40527,117.99934,83.626,2445,15.11,21.21,,3.5,146.2,89,58.2,0.3083,p,1,6,0.10309,4,High canopy (>10m),23.1648,Seasonally flooded
+360,ML259,27,2,2015,Monsoon,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40527,117.99934,83.626,2445,15.11,21.21,,2.5,132.6,79.6,50.6,0.2335,n,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+362,ML261,28,2,2015,Monsoon,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40527,117.99934,83.626,2445,15.11,21.21,,3,120.6,71.4,55.2,0.2739,n,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+373,ML268,12,3,2015,Dry,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40527,117.99934,83.626,2445,15.11,21.21,,5,141.8,79.2,62,0.39,p,1,3,0.04839,4,High canopy (>10m),23.1648,Seasonally flooded
+374,ML141,13,3,2015,Dry,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40527,117.99934,83.626,2445,15.11,21.21,,18,224.8,128.6,95.2,0.6344,p,1,5,0.05252,4,High canopy (>10m),23.1648,Seasonally flooded
+576,ML268,19,3,2016,Dry,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40527,117.99934,83.626,2445,15.11,21.21,,5,144.6,83.6,62,0.39,p,1,1,0.01613,4,High canopy (>10m),23.1648,Seasonally flooded
+153,ML135,12,1,2014,Monsoon,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40532,117.99648,83.626,2445,15.11,21.21,,6.5,175,101.8,67,0.4452,p,1,5,0.07463,4,High canopy (>10m),23.1648,Seasonally flooded
+573,ML338,17,3,2016,Dry,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40532,117.99648,83.626,2445,15.11,21.21,,2,123.8,78.4,51,0.1763,n,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+574,ML137,18,3,2016,Dry,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40532,117.99648,83.626,2445,15.11,21.21,,3,148.6,90.8,61.6,0.2666,p,1,7,0.11364,4,High canopy (>10m),23.1648,Seasonally flooded
+577,ML261,20,3,2016,Dry,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40532,117.99648,83.626,2445,15.11,21.21,,3.5,132,72.8,58.4,0.308,p,1,3,0.05137,4,High canopy (>10m),23.1648,Seasonally flooded
+579,ML340,28,3,2016,Dry,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40532,117.99648,83.626,2445,15.11,21.21,,12,134,49,85.8,0.5582,p,1,4,0.04662,4,High canopy (>10m),23.1648,Seasonally flooded
+580,ML338,30,3,2016,Dry,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40532,117.99648,83.626,2445,15.11,21.21,,2,123.8,78.4,51,0.1763,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+581,ML338,1,4,2016,Dry,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40532,117.99648,83.626,2445,15.11,21.21,,2,123.8,78.4,51,0.1763,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+583,ML341,2,4,2016,Dry,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40532,117.99648,83.626,2445,15.11,21.21,,4,149.8,99.8,57.6,0.342,p,1,8,0.13889,4,High canopy (>10m),23.1648,Seasonally flooded
+591,ML344,21,4,2016,Dry,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40532,117.99648,83.626,2445,15.11,21.21,,1.5,114,68.6,45.6,0.1061,n,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+140,ML126,4,12,2013,Monsoon,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40553,118.0021,83.626,2445,15.11,21.21,,4,156.4,93.4,66.6,0.3302,p,1,6,0.09009,3,Low canopy (5-10m),22.86,Seasonally flooded
+143,ML126,7,12,2013,Monsoon,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40553,118.0021,83.626,2445,15.11,21.21,,4,156.4,93.4,66.6,0.3302,,0,,,3,Low canopy (5-10m),22.86,Seasonally flooded
+146,ML131,9,12,2013,Monsoon,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40553,118.0021,83.626,2445,15.11,21.21,,5.5,171,101.2,69.4,0.4021,p,1,2,0.02882,3,Low canopy (5-10m),22.86,Seasonally flooded
+149,ML126,17,12,2013,Monsoon,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40553,118.0021,83.626,2445,15.11,21.21,,4,156.4,93.4,66.6,0.3302,,0,,,3,Low canopy (5-10m),22.86,Seasonally flooded
+151,ML126,11,1,2014,Monsoon,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40553,118.0021,83.626,2445,15.11,21.21,,4,167,95,63,0.3346,p,1,1,0.01587,3,Low canopy (5-10m),22.86,Seasonally flooded
+154,ML135,18,1,2014,Monsoon,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40553,118.0021,83.626,2445,15.11,21.21,,6,172,102,71.2,0.4201,p,1,1,0.01404,3,Low canopy (5-10m),22.86,Seasonally flooded
+359,ML137,27,2,2015,Monsoon,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40553,118.0021,83.626,2445,15.11,21.21,,4.5,149,92.8,57,0.372,p,1,21,0.36842,3,Low canopy (5-10m),22.86,Seasonally flooded
+364,ML127,1,3,2015,Dry,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40553,118.0021,83.626,2445,15.11,21.21,,2.5,115,64.8,50.6,0.2335,p,1,3,0.05929,3,Low canopy (5-10m),22.86,Seasonally flooded
+366,ML264,3,3,2015,Dry,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40553,118.0021,83.626,2445,15.11,21.21,,16,227.4,134.8,87.4,0.6202,p,1,1,0.01144,3,Low canopy (5-10m),22.86,Seasonally flooded
+368,ML130,5,3,2015,Dry,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40553,118.0021,83.626,2445,15.11,21.21,,4.5,152.2,90,61.8,0.3647,p,1,1,0.01618,3,Low canopy (5-10m),22.86,Seasonally flooded
+369,ML129,6,3,2015,Dry,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40553,118.0021,83.626,2445,15.11,21.21,,2.5,134.6,83.4,51.4,0.2326,,0,,,3,Low canopy (5-10m),22.86,Seasonally flooded
+370,ML129,10,3,2015,Dry,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40553,118.0021,83.626,2445,15.11,21.21,,2.5,134.6,83.4,51.4,0.2326,,0,,,3,Low canopy (5-10m),22.86,Seasonally flooded
+372,ML267,12,3,2015,Dry,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40553,118.0021,83.626,2445,15.11,21.21,,2.5,126,77,49.6,0.2347,p,1,1,0.02016,3,Low canopy (5-10m),22.86,Seasonally flooded
+375,ML131,13,3,2015,Dry,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40553,118.0021,83.626,2445,15.11,21.21,,5.5,174.8,104.2,71.8,0.3989,p,1,2,0.02786,3,Low canopy (5-10m),22.86,Seasonally flooded
+379,ML131,17,3,2015,Dry,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40553,118.0021,83.626,2445,15.11,21.21,,5.5,174.8,104.2,71.8,0.3989,,0,,,3,Low canopy (5-10m),22.86,Seasonally flooded
+578,ML136,28,3,2016,Dry,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40553,118.0021,83.626,2445,15.11,21.21,,13.5,210.6,124.2,86,0.5843,p,1,1,0.01163,3,Low canopy (5-10m),22.86,Seasonally flooded
+585,ML265,3,4,2016,Dry,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40553,118.0021,83.626,2445,15.11,21.21,,9,196.2,110.6,82.4,0.4981,,0,,,3,Low canopy (5-10m),22.86,Seasonally flooded
+586,ML127,16,4,2016,Dry,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40553,118.0021,83.626,2445,15.11,21.21,,3,117,62,53.4,0.2762,n,0,,,3,Low canopy (5-10m),22.86,Seasonally flooded
+589,ML265,19,4,2016,Dry,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40553,118.0021,83.626,2445,15.11,21.21,,9,196.2,110.6,82.4,0.4981,,0,,,3,Low canopy (5-10m),22.86,Seasonally flooded
+208,ML175,1,3,2014,Dry,LOT 6,Forest South,170,interior,FOREST,Fint,5.40567,118.03091,75.44,1439,27.49,13.55,,2,133,80.3,49.8,0.1774,p,1,1,0.02008,4,High canopy (>10m),23.1648,Seasonally flooded
+492,ML152,26,8,2015,Dry,LOT 6,Forest South,170,interior,FOREST,Fint,5.40567,118.03091,75.44,1439,27.49,13.55,,3,128.2,72,54.6,0.2747,n,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+495,ML174,27,8,2015,Dry,LOT 6,Forest South,170,interior,FOREST,Fint,5.40567,118.03091,75.44,1439,27.49,13.55,,9,187.6,107,76.2,0.507,p,1,6,0.07874,4,High canopy (>10m),23.1648,Seasonally flooded
+497,ML177,28,8,2015,Dry,LOT 6,Forest South,170,interior,FOREST,Fint,5.40567,118.03091,75.44,1439,27.49,13.55,,4,152,92.6,60,0.3386,p,1,1,0.01667,4,High canopy (>10m),23.1648,Seasonally flooded
+501,ML319,9,9,2015,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.40567,118.03091,75.44,1439,27.49,13.55,,3,128.2,72,54.6,0.2747,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+503,ML320,10,9,2015,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.40567,118.03091,75.44,1439,27.49,13.55,,6.5,173.4,98.6,71.2,0.4388,p,1,3,0.04213,4,High canopy (>10m),23.1648,Seasonally flooded
+507,ML177,12,9,2015,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.40567,118.03091,75.44,1439,27.49,13.55,,4,152,92.6,60,0.3386,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+509,ML319,13,9,2015,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.40567,118.03091,75.44,1439,27.49,13.55,,2,115,64.8,49.8,0.1774,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+511,ML324,14,9,2015,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.40567,118.03091,75.44,1439,27.49,13.55,,4.5,73.8,9.8,63.4,0.3625,p,1,3,0.04732,4,High canopy (>10m),23.1648,Seasonally flooded
+514,ML168,15,9,2015,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.40567,118.03091,75.44,1439,27.49,13.55,,12.5,180.2,90.2,87.6,0.5647,p,1,14,0.15982,4,High canopy (>10m),23.1648,Seasonally flooded
+518,ML177,16,9,2015,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.40567,118.03091,75.44,1439,27.49,13.55,,4,152,92.6,60,0.3386,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+521,4,17,9,2015,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.40567,118.03091,75.44,1439,27.49,13.55,,4.5,154.2,99.2,64.4,0.3611,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+524,ML326,18,9,2015,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.40567,118.03091,75.44,1439,27.49,13.55,,14,204,119,89,0.5879,p,1,8,0.08989,4,High canopy (>10m),23.1648,Seasonally flooded
+527,ML327,19,9,2015,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.40567,118.03091,75.44,1439,27.49,13.55,,3.5,147,89.4,56.6,0.3104,p,1,1,0.01767,4,High canopy (>10m),23.1648,Seasonally flooded
+531,ML327,20,9,2015,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.40567,118.03091,75.44,1439,27.49,13.55,,3.5,147,89.4,56.6,0.3104,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+534,ML320,21,9,2015,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.40567,118.03091,75.44,1439,27.49,13.55,,6.5,173.4,98.6,71.2,0.4388,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+672,ML324,6,8,2016,Dry,LOT 6,Forest South,170,interior,FOREST,Fint,5.40567,118.03091,75.44,1439,27.49,13.55,,4.5,77,11,64,0.3617,p,1,1,0.01563,4,High canopy (>10m),23.1648,Seasonally flooded
+675,ML324,7,8,2016,Dry,LOT 6,Forest South,170,interior,FOREST,Fint,5.40567,118.03091,75.44,1439,27.49,13.55,,4.5,77,11,64,0.3617,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+677,ML152,11,8,2016,Dry,LOT 6,Forest South,170,interior,FOREST,Fint,5.40567,118.03091,75.44,1439,27.49,13.55,,2.5,124.6,74,55,0.2287,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+679,ML152,12,8,2016,Dry,LOT 6,Forest South,170,interior,FOREST,Fint,5.40567,118.03091,75.44,1439,27.49,13.55,,2.5,124.6,74,55,0.2287,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+686,ML327,24,8,2016,Dry,LOT 6,Forest South,170,interior,FOREST,Fint,5.40567,118.03091,75.44,1439,27.49,13.55,,3.5,147,87.4,50.6,0.3193,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+689,ML164,25,8,2016,Dry,LOT 6,Forest South,170,interior,FOREST,Fint,5.40567,118.03091,75.44,1439,27.49,13.55,,9,185.6,110.4,81.6,0.4992,p,1,3,0.03676,4,High canopy (>10m),23.1648,Seasonally flooded
+694,ML152,3,9,2016,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.40567,118.03091,75.44,1439,27.49,13.55,,2.5,124.6,74,55,0.2287,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+141,ML127,6,12,2013,Monsoon,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40604,118.0053,83.626,2445,15.11,21.21,,2.5,112.8,62.8,50.4,0.2337,p,1,7,0.13889,4,High canopy (>10m),22.5552,Seasonally flooded
+142,ML129,7,12,2013,Monsoon,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40604,118.0053,83.626,2445,15.11,21.21,,2.2,132.2,82.2,50.2,0.2013,p,1,3,0.05976,4,High canopy (>10m),22.5552,Seasonally flooded
+145,ML129,9,12,2013,Monsoon,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40604,118.0053,83.626,2445,15.11,21.21,,2.2,132.2,82.2,50.2,0.2013,,0,,,4,High canopy (>10m),22.5552,Seasonally flooded
+150,ML133,11,1,2014,Monsoon,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40604,118.0053,83.626,2445,15.11,21.21,,12.5,229,128,91,0.5599,p,1,3,0.03297,4,High canopy (>10m),22.5552,Seasonally flooded
+152,ML134,12,1,2014,Monsoon,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40604,118.0053,83.626,2445,15.11,21.21,,2.5,128,68.5,54.2,0.2295,p,1,2,0.0369,4,High canopy (>10m),22.5552,Seasonally flooded
+358,ML129,27,2,2015,Monsoon,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40604,118.0053,83.626,2445,15.11,21.21,,2.5,134.6,83.4,51.4,0.2326,n,0,,,4,High canopy (>10m),22.5552,Seasonally flooded
+377,ML262,14,3,2015,Dry,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40604,118.0053,83.626,2445,15.11,21.21,,3.5,145,90,58.4,0.308,,0,,,4,High canopy (>10m),22.5552,Seasonally flooded
+572,ML266,17,3,2016,Dry,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40604,118.0053,83.626,2445,15.11,21.21,,4.5,165,98.2,67,0.3577,p,1,1,0.01493,4,High canopy (>10m),22.5552,Seasonally flooded
+575,ML339,19,3,2016,Dry,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40604,118.0053,83.626,2445,15.11,21.21,,1.5,109.8,65.8,41,0.1092,n,0,,,4,High canopy (>10m),22.5552,Seasonally flooded
+582,ML265,2,4,2016,Dry,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40604,118.0053,83.626,2445,15.11,21.21,,9,196.2,110.6,82.4,0.4981,n,0,,,4,High canopy (>10m),22.5552,Seasonally flooded
+587,ML267,17,4,2016,Dry,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40604,118.0053,83.626,2445,15.11,21.21,,2.5,133.4,82,50.2,0.234,n,0,,,4,High canopy (>10m),22.5552,Seasonally flooded
+588,ML343,18,4,2016,Dry,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40604,118.0053,83.626,2445,15.11,21.21,,3,145.2,88.2,57.4,0.2713,P,1,3,0.05226,4,High canopy (>10m),22.5552,Seasonally flooded
+144,ML130,9,12,2013,Monsoon,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40615,118.00848,83.626,2445,15.11,21.21,,3,140.8,86.2,54.8,0.2744,p,1,7,0.12774,4,High canopy (>10m),23.7744,Seasonally flooded
+147,ML130,11,12,2013,Monsoon,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40615,118.00848,83.626,2445,15.11,21.21,,3,140.8,86.2,54.8,0.2744,,0,,,4,High canopy (>10m),23.7744,Seasonally flooded
+148,ML132,17,12,2013,Monsoon,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40615,118.00848,83.626,2445,15.11,21.21,,1.6,103,59.6,45.8,0.1229,n,0,,,4,High canopy (>10m),23.7744,Seasonally flooded
+155,ML136,19,1,2014,Monsoon,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40615,118.00848,83.626,2445,15.11,21.21,,9,187.6,111.6,76,0.5074,n,0,,,4,High canopy (>10m),23.7744,Seasonally flooded
+361,ML260,28,2,2015,Monsoon,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40615,118.00848,83.626,2445,15.11,21.21,,3.5,136.8,84,51.4,0.318,n,0,,,4,High canopy (>10m),23.7744,Seasonally flooded
+363,ML262,1,3,2015,Dry,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40615,118.00848,83.626,2445,15.11,21.21,,3.5,145,90,58.4,0.308,p,1,6,0.10274,4,High canopy (>10m),23.7744,Seasonally flooded
+365,ML263,3,3,2015,Dry,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40615,118.00848,83.626,2445,15.11,21.21,,4,138.8,78.6,56.2,0.3441,p,1,6,0.10676,4,High canopy (>10m),23.7744,Seasonally flooded
+367,ML265,5,3,2015,Dry,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40615,118.00848,83.626,2445,15.11,21.21,,8,145,90,58.4,0.5113,p,1,3,0.05137,4,High canopy (>10m),23.7744,Seasonally flooded
+371,ML266,11,3,2015,Dry,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40615,118.00848,83.626,2445,15.11,21.21,,4.5,161,97,64.6,0.3608,p,1,1,0.01548,4,High canopy (>10m),23.7744,Seasonally flooded
+376,ML269,14,3,2015,Dry,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40615,118.00848,83.626,2445,15.11,21.21,,3,138,84.6,52.8,0.277,n,0,,,4,High canopy (>10m),23.7744,Seasonally flooded
+378,ML265,17,3,2015,Dry,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40615,118.00848,83.626,2445,15.11,21.21,,8,145,90,58.4,0.5113,,0,,,4,High canopy (>10m),23.7744,Seasonally flooded
+380,ML265,18,3,2015,Dry,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40615,118.00848,83.626,2445,15.11,21.21,,8,145,90,58.4,0.5113,,0,,,4,High canopy (>10m),23.7744,Seasonally flooded
+505,ML264,11,9,2015,Monsoon,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40615,118.00848,83.626,2445,15.11,21.21,,17,220.6,134,88.6,0.6318,p,1,1,0.01129,4,High canopy (>10m),23.7744,Seasonally flooded
+584,ML342,3,4,2016,Dry,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40615,118.00848,83.626,2445,15.11,21.21,,5,160,91.8,64,0.387,p,1,11,0.17188,4,High canopy (>10m),23.7744,Seasonally flooded
+590,ML343,21,4,2016,Dry,LOT 7,Forest North,93,riverside,FOREST,FRS,5.40615,118.00848,83.626,2445,15.11,21.21,,3,145.2,88.2,57.4,0.2713,,0,,,4,High canopy (>10m),23.7744,Seasonally flooded
+202,ML172,22,2,2014,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.4071,118.02877,75.44,1439,27.49,13.55,,4,125.2,64,57.5,0.3421,n,0,,,4,High canopy (>10m),23.4696,Seasonally flooded
+494,ML299,27,8,2015,Dry,LOT 6,Forest South,170,interior,FOREST,Fint,5.4071,118.02877,75.44,1439,27.49,13.55,,1.5,116,68.2,46.2,0.1058,n,0,,,4,High canopy (>10m),23.4696,Seasonally flooded
+500,ML158,9,9,2015,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.4071,118.02877,75.44,1439,27.49,13.55,,2.5,130.2,76.8,53.4,0.2304,n,0,,,4,High canopy (>10m),23.4696,Seasonally flooded
+502,ML171,10,9,2015,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.4071,118.02877,75.44,1439,27.49,13.55,,12,181,99,82.4,0.5633,p,1,8,0.09709,4,High canopy (>10m),23.4696,Seasonally flooded
+506,ML158,12,9,2015,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.4071,118.02877,75.44,1439,27.49,13.55,,2.5,130.2,76.8,53.4,0.2304,,0,,,4,High canopy (>10m),23.4696,Seasonally flooded
+510,ML323,14,9,2015,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.4071,118.02877,75.44,1439,27.49,13.55,,2,129.9,72.9,49,0.1781,p,1,12,0.2449,4,High canopy (>10m),23.4696,Seasonally flooded
+517,ML299,16,9,2015,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.4071,118.02877,75.44,1439,27.49,13.55,,1.5,116,68.2,46.2,0.1058,,0,,,4,High canopy (>10m),23.4696,Seasonally flooded
+520,ML299,17,9,2015,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.4071,118.02877,75.44,1439,27.49,13.55,,1.5,116,68.2,46.2,0.1058,,0,,,4,High canopy (>10m),23.4696,Seasonally flooded
+523,ML323,18,9,2015,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.4071,118.02877,75.44,1439,27.49,13.55,,2,129.9,72.9,49,0.1781,,0,,,4,High canopy (>10m),23.4696,Seasonally flooded
+526,ML324,19,9,2015,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.4071,118.02877,75.44,1439,27.49,13.55,,4.5,73.8,9.8,63.4,0.3625,,0,,,4,High canopy (>10m),23.4696,Seasonally flooded
+530,ML323,20,9,2015,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.4071,118.02877,75.44,1439,27.49,13.55,,2,129.9,72.9,49,0.1781,,0,,,4,High canopy (>10m),23.4696,Seasonally flooded
+533,ML299,21,9,2015,Monsoon,LOT 6,Forest South,170,interior,FOREST,Fint,5.4071,118.02877,75.44,1439,27.49,13.55,,1.5,116,68.2,46.2,0.1058,,0,,,4,High canopy (>10m),23.4696,Seasonally flooded
+671,ML152,6,8,2016,Dry,LOT 6,Forest South,170,interior,FOREST,Fint,5.4071,118.02877,75.44,1439,27.49,13.55,,2.5,124.6,74,55,0.2287,p,1,1,0.01818,4,High canopy (>10m),23.4696,Seasonally flooded
+680,ML152,21,8,2016,Dry,LOT 6,Forest South,170,interior,FOREST,Fint,5.4071,118.02877,75.44,1439,27.49,13.55,,2.5,124.6,74,55,0.2287,,0,,,4,High canopy (>10m),23.4696,Seasonally flooded
+682,ML158,22,8,2016,Dry,LOT 6,Forest South,170,interior,FOREST,Fint,5.4071,118.02877,75.44,1439,27.49,13.55,,3.1,133,79.2,51.2,0.2875,p,1,6,0.11719,4,High canopy (>10m),23.4696,Seasonally flooded
+684,ML327,23,8,2016,Dry,LOT 6,Forest South,170,interior,FOREST,Fint,5.4071,118.02877,75.44,1439,27.49,13.55,,3.5,147,87.4,50.6,0.3193,p,1,3,0.05929,4,High canopy (>10m),23.4696,Seasonally flooded
+242,ML205,30,4,2014,Dry,LOT 7,Forest North,93,interior,FOREST,Fint,5.40964,117.99708,83.626,2445,15.11,21.21,,3,139.6,82.6,54.6,0.2747,p,1,1,0.01832,4,High canopy (>10m),22.86,Seasonally flooded
+243,ML206,2,5,2014,Dry,LOT 7,Forest North,93,interior,FOREST,Fint,5.40964,117.99708,83.626,2445,15.11,21.21,,3.5,138.2,80.4,60.2,0.3057,p,1,8,0.13289,4,High canopy (>10m),22.86,Seasonally flooded
+246,ML206,5,5,2014,Dry,LOT 7,Forest North,93,interior,FOREST,Fint,5.40964,117.99708,83.626,2445,15.11,21.21,,3.5,138.2,80.4,60.2,0.3057,,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+247,ML206,6,5,2014,Dry,LOT 7,Forest North,93,interior,FOREST,Fint,5.40964,117.99708,83.626,2445,15.11,21.21,,3.5,138.2,80.4,60.2,0.3057,,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+248,ML205,20,5,2014,Dry,LOT 7,Forest North,93,interior,FOREST,Fint,5.40964,117.99708,83.626,2445,15.11,21.21,,3,139.6,82.6,54.6,0.2747,P,1,1,0.01832,4,High canopy (>10m),22.86,Seasonally flooded
+250,ML205,21,5,2014,Dry,LOT 7,Forest North,93,interior,FOREST,Fint,5.40964,117.99708,83.626,2445,15.11,21.21,,3,139.6,82.6,54.6,0.2747,,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+252,ML205,22,5,2014,Dry,LOT 7,Forest North,93,interior,FOREST,Fint,5.40964,117.99708,83.626,2445,15.11,21.21,,3,139.6,82.6,54.6,0.2747,,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+381,ML205,20,3,2015,Dry,LOT 7,Forest North,93,interior,FOREST,Fint,5.40964,117.99708,83.626,2445,15.11,21.21,,3.5,141,81.6,55.4,0.3121,p,1,6,0.1083,4,High canopy (>10m),22.86,Seasonally flooded
+382,ML270,23,3,2015,Dry,LOT 7,Forest North,93,interior,FOREST,Fint,5.40964,117.99708,83.626,2445,15.11,21.21,,4,149.8,89.6,59.2,0.3397,p,1,16,0.27027,4,High canopy (>10m),22.86,Seasonally flooded
+383,ML271,25,3,2015,Dry,LOT 7,Forest North,93,interior,FOREST,Fint,5.40964,117.99708,83.626,2445,15.11,21.21,,2,128.6,80.2,53.8,0.1739,n,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+384,ML272,27,3,2015,Dry,LOT 7,Forest North,93,interior,FOREST,Fint,5.40964,117.99708,83.626,2445,15.11,21.21,,3,144,86,55.8,0.2732,p,1,7,0.12545,4,High canopy (>10m),22.86,Seasonally flooded
+387,ML271,25,3,2015,Dry,LOT 7,Forest North,93,interior,FOREST,Fint,5.40964,117.99708,83.626,2445,15.11,21.21,,2,128.6,80.2,53.8,0.1739,,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+388,ML274,7,4,2015,Dry,LOT 7,Forest North,93,interior,FOREST,Fint,5.40964,117.99708,83.626,2445,15.11,21.21,,3.5,137.8,79.8,56.2,0.3109,n,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+390,ML272,8,4,2015,Dry,LOT 7,Forest North,93,interior,FOREST,Fint,5.40964,117.99708,83.626,2445,15.11,21.21,,3,144,86,55.8,0.2732,,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+393,ML274,9,4,2015,Dry,LOT 7,Forest North,93,interior,FOREST,Fint,5.40964,117.99708,83.626,2445,15.11,21.21,,3.5,137.8,79.8,56.2,0.3109,,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+249,ML127,21,5,2014,Dry,LOT 7,Forest North,93,interior,FOREST,Fint,5.40979,118.00261,83.626,2445,15.11,21.21,,2.5,112.8,62.8,50.4,0.2337,p,1,3,0.05952,3,Low canopy (5-10m),22.5552,Seasonally flooded
+251,ML127,22,5,2014,Dry,LOT 7,Forest North,93,interior,FOREST,Fint,5.40979,118.00261,83.626,2445,15.11,21.21,,2.5,112.8,62.8,50.4,0.2337,,0,,,3,Low canopy (5-10m),22.5552,Seasonally flooded
+385,ML273,28,3,2015,Dry,LOT 7,Forest North,93,interior,FOREST,Fint,5.40979,118.00261,83.626,2445,15.11,21.21,,2,112.2,65.2,48.6,0.1785,n,0,,,3,Low canopy (5-10m),22.5552,Seasonally flooded
+386,ML266,29,3,2015,Dry,LOT 7,Forest North,93,interior,FOREST,Fint,5.40979,118.00261,83.626,2445,15.11,21.21,,4.5,161,97,64.6,0.3608,p,1,1,0.01548,3,Low canopy (5-10m),22.5552,Seasonally flooded
+389,ML127,8,4,2015,Dry,LOT 7,Forest North,93,interior,FOREST,Fint,5.40979,118.00261,83.626,2445,15.11,21.21,,2.5,115,64.8,50.6,0.2335,,0,,,3,Low canopy (5-10m),22.5552,Seasonally flooded
+392,ML275,9,4,2015,Dry,LOT 7,Forest North,93,interior,FOREST,Fint,5.40979,118.00261,83.626,2445,15.11,21.21,,3.5,145.8,87.8,56,0.3112,p,1,1,0.01786,3,Low canopy (5-10m),22.5552,Seasonally flooded
+722,ML275,6,3,2017,Dry,LOT 7,Forest North,93,interior,FOREST,Fint,5.40979,118.00261,83.626,2445,15.11,21.21,,4.5,154.6,90.6,62,0.3644,p,1,2,0.03226,3,Low canopy (5-10m),22.5552,Seasonally flooded
+174,ML152,29,1,2014,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.40996,118.02872,75.44,1439,27.49,13.55,,2.5,129,76.2,50.4,0.2337,p,1,1,0.01984,4,High canopy (>10m),22.86,Seasonally flooded
+178,ML157,31,1,2014,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.40996,118.02872,75.44,1439,27.49,13.55,,12.5,202,120.8,85.2,0.5682,p,1,3,0.03521,4,High canopy (>10m),22.86,Seasonally flooded
+191,ML152,7,2,2014,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.40996,118.02872,75.44,1439,27.49,13.55,,2.5,129,76.2,50.4,0.2337,,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+193,ML166,11,2,2014,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.40996,118.02872,75.44,1439,27.49,13.55,,4.5,160.4,94,66.6,0.3582,p,1,10,0.15015,4,High canopy (>10m),22.86,Seasonally flooded
+195,ML166,12,2,2014,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.40996,118.02872,75.44,1439,27.49,13.55,,4.5,160.4,94,66.6,0.3582,,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+456,ML299,4,7,2015,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.40996,118.02872,75.44,1439,27.49,13.55,,2.5,113.2,66.2,46.6,0.2385,,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+458,ML161,6,7,2015,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.40996,118.02872,75.44,1439,27.49,13.55,,3.5,149.4,87.2,61.4,0.3043,p,1,12,0.19544,4,High canopy (>10m),22.86,Seasonally flooded
+463,ML161,8,7,2015,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.40996,118.02872,75.44,1439,27.49,13.55,,3.5,149.4,87.2,61.4,0.3043,,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+466,ML299,9,7,2015,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.40996,118.02872,75.44,1439,27.49,13.55,,2.5,113.2,66.2,46.6,0.2385,,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+539,ML299,17,2,2016,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.40996,118.02872,75.44,1439,27.49,13.55,,2,116.2,66.2,74.2,0.1609,p,1,1,0.01348,4,High canopy (>10m),22.86,Seasonally flooded
+546,ML299,23,2,2016,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.40996,118.02872,75.44,1439,27.49,13.55,,2,116.2,66.2,74.2,0.1609,,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+550,ML329,25,2,2016,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.40996,118.02872,75.44,1439,27.49,13.55,,19,223.4,125,96.8,0.6439,p,1,3,0.03099,4,High canopy (>10m),22.86,Seasonally flooded
+554,ML299,23,2,2016,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.40996,118.02872,75.44,1439,27.49,13.55,,2,116.2,66.2,74.2,0.1609,,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+560,ML332,4,3,2016,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.40996,118.02872,75.44,1439,27.49,13.55,,4.5,155.6,94,63.6,0.3622,p,1,5,0.07862,4,High canopy (>10m),22.86,Seasonally flooded
+563,ML158,5,3,2016,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.40996,118.02872,75.44,1439,27.49,13.55,,3,131.6,76,53,0.2767,,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+244,ML207,3,5,2014,Dry,LOT 7,Forest North,93,interior,FOREST,Fint,5.41001,117.99976,83.626,2445,15.11,21.21,,3,140.3,85.5,53.4,0.2762,p,1,1,0.01873,4,High canopy (>10m),22.86,Seasonally flooded
+245,ML207,5,5,2014,Dry,LOT 7,Forest North,93,interior,FOREST,Fint,5.41001,117.99976,83.626,2445,15.11,21.21,,3,140.3,85.5,53.4,0.2762,,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+724,ML402,13,3,2017,Dry,LOT 7,Forest North,93,interior,FOREST,Fint,5.41001,117.99976,83.626,2445,15.11,21.21,,6,166.4,49,71.2,0.4201,p,1,6,0.08427,4,High canopy (>10m),22.86,Seasonally flooded
+728,ML266,19,3,2017,Dry,LOT 7,Forest North,93,interior,FOREST,Fint,5.41001,117.99976,83.626,2445,15.11,21.21,,6.5,177,106.8,71,0.4391,p,1,2,0.02817,4,High canopy (>10m),22.86,Seasonally flooded
+729,ML404,20,3,2017,Dry,LOT 7,Forest North,93,interior,FOREST,Fint,5.41001,117.99976,83.626,2445,15.11,21.21,,2.5,130.2,80,50,0.2342,n,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+175,ML153,29,1,2014,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41031,118.02599,75.44,1439,27.49,13.55,,1.5,118.2,71.8,45.6,0.1061,n,0,,,3,Low canopy (5-10m),22.5552,Seasonally flooded
+184,ML157,2,2,2014,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41031,118.02599,75.44,1439,27.49,13.55,,12.5,202,120.8,85.2,0.5682,,0,,,3,Low canopy (5-10m),22.5552,Seasonally flooded
+188,ML153,3,2,2014,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41031,118.02599,75.44,1439,27.49,13.55,,1.5,118.2,71.8,45.6,0.1061,,0,,,3,Low canopy (5-10m),22.5552,Seasonally flooded
+442,ML299,19,6,2015,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41031,118.02599,75.44,1439,27.49,13.55,,2.5,113.2,66.2,46.6,0.2385,n,0,,,3,Low canopy (5-10m),22.5552,Seasonally flooded
+446,ML299,24,6,2015,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41031,118.02599,75.44,1439,27.49,13.55,,2.5,113.2,66.2,46.6,0.2385,,0,,,3,Low canopy (5-10m),22.5552,Seasonally flooded
+448,ML158,25,6,2015,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41031,118.02599,75.44,1439,27.49,13.55,,2.5,139,82.2,55,0.2287,p,1,2,0.03636,3,Low canopy (5-10m),22.5552,Seasonally flooded
+450,ML158,26,6,2015,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41031,118.02599,75.44,1439,27.49,13.55,,2.5,139,82.2,55,0.2287,,0,,,3,Low canopy (5-10m),22.5552,Seasonally flooded
+454,ML152,29,6,2015,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41031,118.02599,75.44,1439,27.49,13.55,,3,129.8,79.2,52,0.278,n,0,,,3,Low canopy (5-10m),22.5552,Seasonally flooded
+464,ML173,8,7,2015,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41031,118.02599,75.44,1439,27.49,13.55,,13,200.6,118.6,94.6,0.5638,p,1,1,0.01057,3,Low canopy (5-10m),22.5552,Seasonally flooded
+544,ML158,22,2,2016,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41031,118.02599,75.44,1439,27.49,13.55,,3,131.6,76,53,0.2767,p,1,2,0.03774,3,Low canopy (5-10m),22.5552,Seasonally flooded
+547,ML158,23,2,2016,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41031,118.02599,75.44,1439,27.49,13.55,,3,131.6,76,53,0.2767,,0,,,3,Low canopy (5-10m),22.5552,Seasonally flooded
+551,ML330,25,2,2016,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41031,118.02599,75.44,1439,27.49,13.55,,1.5,115.8,69,45.6,0.1061,p,1,1,0.02193,3,Low canopy (5-10m),22.5552,Seasonally flooded
+555,ML331,28,2,2016,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41031,118.02599,75.44,1439,27.49,13.55,,4.5,145.4,85,63,0.363,p,1,8,0.12698,3,Low canopy (5-10m),22.5552,Seasonally flooded
+557,ML158,2,3,2016,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41031,118.02599,75.44,1439,27.49,13.55,,3,131.6,76,53,0.2767,,0,,,3,Low canopy (5-10m),22.5552,Seasonally flooded
+559,ML331,3,3,2016,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41031,118.02599,75.44,1439,27.49,13.55,,4.5,145.4,85,63,0.363,,0,,,3,Low canopy (5-10m),22.5552,Seasonally flooded
+561,ML330,4,3,2016,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41031,118.02599,75.44,1439,27.49,13.55,,1.5,115.8,69,45.6,0.1061,,0,,,3,Low canopy (5-10m),22.5552,Seasonally flooded
+564,ML326,5,3,2016,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41031,118.02599,75.44,1439,27.49,13.55,,13.5,205.8,119,88,0.5813,p,1,11,0.125,3,Low canopy (5-10m),22.5552,Seasonally flooded
+391,ML273,9,4,2015,Dry,LOT 7,Forest North,93,interior,FOREST,Fint,5.41036,118.0057,83.626,2445,15.11,21.21,,2,112.2,65.2,48.6,0.1785,,0,,,3,Low canopy (5-10m),22.5552,Seasonally flooded
+725,ML262,15,3,2017,Dry,LOT 7,Forest North,93,interior,FOREST,Fint,5.41036,118.0057,83.626,2445,15.11,21.21,,3,146.2,89.2,69.4,0.2591,p,1,10,0.14409,3,Low canopy (5-10m),22.5552,Seasonally flooded
+727,ML339,19,3,2017,Dry,LOT 7,Forest North,93,interior,FOREST,Fint,5.41036,118.0057,83.626,2445,15.11,21.21,,2,112.4,62,47,0.18,p,1,2,0.04255,3,Low canopy (5-10m),22.5552,Seasonally flooded
+173,ML151,29,1,2014,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41032,118.03186,75.44,1439,27.49,13.55,,7,164.4,97,66.8,0.4631,p,1,25,0.37425,4,High canopy (>10m),22.86,Seasonally flooded
+181,ML160,1,2,2014,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41032,118.03186,75.44,1439,27.49,13.55,,8,174.2,105.8,70.8,0.4881,p,1,4,0.0565,4,High canopy (>10m),22.86,Seasonally flooded
+183,ML162,2,2,2014,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41032,118.03186,75.44,1439,27.49,13.55,,18.5,224.2,140.4,90.8,0.6471,p,1,23,0.2533,4,High canopy (>10m),22.86,Seasonally flooded
+186,ML164,3,2,2014,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41032,118.03186,75.44,1439,27.49,13.55,,4.5,158.2,92.4,64,0.3617,p,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+443,ML300,20,6,2015,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41032,118.03186,75.44,1439,27.49,13.55,,2.5,118,72.2,43,0.2436,n,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+445,ML152,20,6,2015,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41032,118.03186,75.44,1439,27.49,13.55,,3,129,74.2,55,0.2742,n,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+449,ML303,26,6,2015,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41032,118.03186,75.44,1439,27.49,13.55,,2.5,135,78.4,51.4,0.2326,p,1,1,0.01946,4,High canopy (>10m),22.86,Seasonally flooded
+453,ML164,29,6,2015,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41032,118.03186,75.44,1439,27.49,13.55,,6,168.6,98.6,69,0.4232,p,1,4,0.05797,4,High canopy (>10m),22.86,Seasonally flooded
+460,ML305,6,7,2015,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41032,118.03186,75.44,1439,27.49,13.55,,15,201,112,86,0.608,p,1,6,0.06977,4,High canopy (>10m),22.86,Seasonally flooded
+462,ML300,8,7,2015,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41032,118.03186,75.44,1439,27.49,13.55,,2.5,118,72.2,43,0.2436,,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+538,ML300,17,2,2016,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41032,118.03186,75.44,1439,27.49,13.55,,1.5,121.4,74.8,43.8,0.1073,n,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+541,ML299,18,2,2016,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41032,118.03186,75.44,1439,27.49,13.55,,2,116.2,66.2,74.2,0.1609,p,1,1,0.01348,4,High canopy (>10m),22.86,Seasonally flooded
+545,ML300,23,2,2016,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41032,118.03186,75.44,1439,27.49,13.55,,1.5,121.4,74.8,43.8,0.1073,,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+553,ML164,28,2,2016,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41032,118.03186,75.44,1439,27.49,13.55,,7.5,177.6,104.2,74.2,0.4678,p,1,3,0.04043,4,High canopy (>10m),22.86,Seasonally flooded
+556,ML300,1,3,2016,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41032,118.03186,75.44,1439,27.49,13.55,,1.5,121.4,74.8,43.8,0.1073,,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+638,ML367,30,6,2016,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41032,118.03186,75.44,1439,27.49,13.55,,22,179.4,74.8,102.4,0.6678,p,1,3,0.0293,4,High canopy (>10m),22.86,Seasonally flooded
+723,ML401,12,3,2017,Dry,LOT 7,Forest North,93,interior,FOREST,Fint,5.41039,118.00798,83.626,2445,15.11,21.21,,2,112.8,64.4,49.2,0.1779,n,0,,,3,Low canopy (5-10m),22.5552,Seasonally flooded
+726,ML403,16,3,2017,Dry,LOT 7,Forest North,93,interior,FOREST,Fint,5.41039,118.00798,83.626,2445,15.11,21.21,,2.5,141.6,91,61.4,0.2225,n,0,,,3,Low canopy (5-10m),22.5552,Seasonally flooded
+179,ML158,31,1,2014,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41044,118.02298,75.44,1439,27.49,13.55,,2,132,80.8,48.4,0.1787,n,0,,,4,High canopy (>10m),23.4696,Seasonally flooded
+182,ML161,1,2,2014,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41044,118.02298,75.44,1439,27.49,13.55,,3,145.9,87.2,58.8,0.2697,p,1,3,0.05102,4,High canopy (>10m),23.4696,Seasonally flooded
+185,ML163,2,2,2014,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41044,118.02298,75.44,1439,27.49,13.55,,2,142,84.4,47.4,0.1796,n,0,,,4,High canopy (>10m),23.4696,Seasonally flooded
+187,ML161,3,2,2014,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41044,118.02298,75.44,1439,27.49,13.55,,3,145.9,87.2,58.8,0.2697,,0,,,4,High canopy (>10m),23.4696,Seasonally flooded
+189,ML160,4,2,2014,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41044,118.02298,75.44,1439,27.49,13.55,,8,174.2,105.8,70.8,0.4881,,0,,,4,High canopy (>10m),23.4696,Seasonally flooded
+190,ML158,5,2,2014,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41044,118.02298,75.44,1439,27.49,13.55,,2,132,80.8,48.4,0.1787,,0,,,4,High canopy (>10m),23.4696,Seasonally flooded
+192,ML165,7,2,2014,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41044,118.02298,75.44,1439,27.49,13.55,,3.5,133.8,81,52.2,0.3167,p,1,5,0.09579,4,High canopy (>10m),23.4696,Seasonally flooded
+194,ML167,11,2,2014,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41044,118.02298,75.44,1439,27.49,13.55,,3,140.2,82.4,55,0.2742,n,0,,,4,High canopy (>10m),23.4696,Seasonally flooded
+196,ML160,12,2,2014,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41044,118.02298,75.44,1439,27.49,13.55,,8,174.2,105.8,70.8,0.4881,,0,,,4,High canopy (>10m),23.4696,Seasonally flooded
+468,ML307,10,7,2015,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41044,118.02298,75.44,1439,27.49,13.55,,1.5,117.8,70,47,0.1053,p,1,5,0.10638,4,High canopy (>10m),23.4696,Seasonally flooded
+542,ML307,18,2,2016,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41044,118.02298,75.44,1439,27.49,13.55,,2,118,78.6,47.8,0.1792,p,1,3,0.06276,4,High canopy (>10m),23.4696,Seasonally flooded
+543,ML307,21,2,2016,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41044,118.02298,75.44,1439,27.49,13.55,,2,118,78.6,47.8,0.1792,,0,,,4,High canopy (>10m),23.4696,Seasonally flooded
+548,ML173,23,2,2016,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41044,118.02298,75.44,1439,27.49,13.55,,13.4,212.2,119,85,0.5842,p,1,2,0.02353,4,High canopy (>10m),23.4696,Seasonally flooded
+549,ML328,24,2,2016,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41044,118.02298,75.44,1439,27.49,13.55,,3,151.2,88.8,59.2,0.2692,p,1,8,0.13514,4,High canopy (>10m),23.4696,Seasonally flooded
+558,ML328,2,3,2016,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41044,118.02298,75.44,1439,27.49,13.55,,3,151.2,88.8,59.2,0.2692,,0,,,4,High canopy (>10m),23.4696,Seasonally flooded
+562,ML324,4,3,2016,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41044,118.02298,75.44,1439,27.49,13.55,,4.5,75,10.4,64.2,0.3614,p,1,5,0.07788,4,High canopy (>10m),23.4696,Seasonally flooded
+172,ML150,29,1,2014,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41212,118.03409,75.44,1439,27.49,13.55,,6,149.2,88.4,61.2,0.4355,p,1,4,0.06536,4,High canopy (>10m),23.1648,Seasonally flooded
+180,ML159,1,2,2014,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41212,118.03409,75.44,1439,27.49,13.55,,4,148,87.8,60.2,0.3383,p,1,3,0.04983,4,High canopy (>10m),23.1648,Seasonally flooded
+441,ML298,19,6,2015,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41212,118.03409,75.44,1439,27.49,13.55,,3.5,139.5,84.8,53.4,0.3149,n,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+444,ML301,20,6,2015,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41212,118.03409,75.44,1439,27.49,13.55,,2,117.6,71.2,49.8,0.1774,n,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+447,ML302,25,6,2015,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41212,118.03409,75.44,1439,27.49,13.55,,2,125.8,76.2,48.2,0.1789,p,1,3,0.06224,4,High canopy (>10m),23.1648,Seasonally flooded
+451,ML302,28,6,2015,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41212,118.03409,75.44,1439,27.49,13.55,,2,125.8,76.2,48.2,0.1789,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+452,ML301,29,6,2015,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41212,118.03409,75.44,1439,27.49,13.55,,2,117.6,71.2,49.8,0.1774,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+455,ML304,4,7,2015,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41212,118.03409,75.44,1439,27.49,13.55,,2.5,128.2,77.8,51.2,0.2328,n,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+457,ML304,6,7,2015,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41212,118.03409,75.44,1439,27.49,13.55,,2.5,128.2,77.8,51.2,0.2328,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+459,ML152,6,7,2015,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41212,118.03409,75.44,1439,27.49,13.55,,3.5,129.2,75.2,55,0.3126,p,1,3,0.05455,4,High canopy (>10m),23.1648,Seasonally flooded
+461,ML298,8,7,2015,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41212,118.03409,75.44,1439,27.49,13.55,,3.5,139.5,84.8,53.4,0.3149,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+465,ML298,9,7,2015,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41212,118.03409,75.44,1439,27.49,13.55,,3.5,139.5,84.8,53.4,0.3149,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+467,ML302,10,7,2015,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41212,118.03409,75.44,1439,27.49,13.55,,2,125.8,76.2,48.2,0.1789,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+540,ML315,18,2,2016,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41212,118.03409,75.44,1439,27.49,13.55,,3,140,87.6,54.2,0.2752,p,1,1,0.01845,4,High canopy (>10m),23.1648,Seasonally flooded
+552,ML315,26,2,2016,Monsoon,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41212,118.03409,75.44,1439,27.49,13.55,,3,140,87.6,54.2,0.2752,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+565,ML333,9,3,2016,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41212,118.03409,75.44,1439,27.49,13.55,,4,156,93,58,0.3414,p,1,2,0.03448,4,High canopy (>10m),23.1648,Seasonally flooded
+566,ML334,9,3,2016,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41212,118.03409,75.44,1439,27.49,13.55,,3,135.2,135.2,55.4,0.2737,p,1,1,0.01805,4,High canopy (>10m),23.1648,Seasonally flooded
+567,ML333,10,3,2016,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41212,118.03409,75.44,1439,27.49,13.55,,4,156,93,58,0.3414,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+568,ML302,10,3,2016,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41212,118.03409,75.44,1439,27.49,13.55,,2.5,122,79.8,49.2,0.2352,p,1,1,0.02033,4,High canopy (>10m),23.1648,Seasonally flooded
+569,ML335,11,3,2016,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41212,118.03409,75.44,1439,27.49,13.55,,3,132.6,0,54.2,0.2752,p,1,1,0.01845,4,High canopy (>10m),23.1648,Seasonally flooded
+570,ML336,13,3,2016,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41212,118.03409,75.44,1439,27.49,13.55,,11.5,203,118,75,0.5657,p,1,,,4,High canopy (>10m),23.1648,Seasonally flooded
+571,ML337,14,3,2016,Dry,LOT 6,Forest South,170,riverside,FOREST,FRS,5.41212,118.03409,75.44,1439,27.49,13.55,,3.5,142,86,55.2,0.3123,n,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+3,ML21,27,4,2013,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41303,118.06606,129.62,2445,16.91,21.21,,2.75,128.6,80,49.3,0.2595,,0,,,4,High canopy (>10m),22.5552,Seasonally flooded
+4,ML22,28,4,2013,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41303,118.06606,129.62,2445,16.91,21.21,,3.75,148.3,90.6,87.6,0.2955,,0,,,4,High canopy (>10m),22.5552,Seasonally flooded
+1,ML19,25,4,2013,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41394,118.07147,129.62,2445,16.91,21.21,,3,140.8,84.6,53.3,0.2763,,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+5,ML23,30,4,2013,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41394,118.07147,129.62,2445,16.91,21.21,,,,,,,,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+46,ML71,10,7,2013,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41429,118.06022,129.62,2445,16.91,21.21,male,14.5,186.6,105,82.8,0.6055,n,0,,,4,High canopy (>10m),23.4696,Seasonally flooded
+81,ML97,17,8,2013,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41429,118.06022,129.62,2445,16.91,21.21,,17,213,118.9,94.4,0.623,n,0,,,4,High canopy (>10m),23.4696,Seasonally flooded
+106,ML80,3,10,2013,Monsoon,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41429,118.06022,129.62,2445,16.91,21.21,,2,131,79,51.8,0.1756,p,1,1,0.01931,4,High canopy (>10m),23.4696,Seasonally flooded
+418,ML286,12,5,2015,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41429,118.06022,129.62,2445,16.91,21.21,,2,131.6,84.6,49,0.1781,p,1,1,0.02041,4,High canopy (>10m),23.4696,Seasonally flooded
+642,ML286,6,7,2016,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41429,118.06022,129.62,2445,16.91,21.21,,3.5,139.8,85.2,54.6,0.3132,n,0,,,4,High canopy (>10m),23.4696,Seasonally flooded
+646,ML372,9,7,2016,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41429,118.06022,129.62,2445,16.91,21.21,,1.5,123.2,73.2,47.6,0.105,n,0,,,4,High canopy (>10m),23.4696,Seasonally flooded
+648,ML286,10,7,2016,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41429,118.06022,129.62,2445,16.91,21.21,,3.5,139.8,85.2,54.6,0.3132,,0,,,4,High canopy (>10m),23.4696,Seasonally flooded
+651,ML374,11,7,2016,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41429,118.06022,129.62,2445,16.91,21.21,,3.5,144.2,85.2,67,0.2979,n,0,,,4,High canopy (>10m),23.4696,Seasonally flooded
+654,ML372,12,7,2016,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41429,118.06022,129.62,2445,16.91,21.21,,1.5,123.2,73.2,47.6,0.105,,0,,,4,High canopy (>10m),23.4696,Seasonally flooded
+657,ML376,13,7,2016,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41429,118.06022,129.62,2445,16.91,21.21,,1.1,84.4,38,43.4,0.0253,n,0,,,4,High canopy (>10m),23.4696,Seasonally flooded
+660,ML377,20,7,2016,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41429,118.06022,129.62,2445,16.91,21.21,,16.5,209,119.2,92.2,0.6197,p,1,7,0.07592,4,High canopy (>10m),23.4696,Seasonally flooded
+669,ML374,2,8,2016,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41429,118.06022,129.62,2445,16.91,21.21,,3.5,144.2,85.2,67,0.2979,,0,,,4,High canopy (>10m),23.4696,Seasonally flooded
+670,ML372,3,8,2016,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41429,118.06022,129.62,2445,16.91,21.21,,1.5,123.2,73.2,47.6,0.105,,0,,,4,High canopy (>10m),23.4696,Seasonally flooded
+45,ML70,10,7,2013,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.4163,118.0584,129.62,2445,16.91,21.21,male,9.5,191,112.4,77.6,0.5174,p,1,4,0.05155,4,High canopy (>10m),23.1648,Seasonally flooded
+48,ML73,11,7,2013,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.4163,118.0584,129.62,2445,16.91,21.21,male,4.5,153.6,92.8,61.6,0.365,p,1,2,0.03247,4,High canopy (>10m),23.1648,Seasonally flooded
+58,ML80,24,7,2013,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.4163,118.0584,129.62,2445,16.91,21.21,,2,129.8,79.6,51.2,0.1761,n,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+101,ML67,10,9,2013,Monsoon,LOT 5,Forest North,129,riverside,FOREST,FRS,5.4163,118.0584,129.62,2445,16.91,21.21,,3,153.2,94,55.2,0.2739,n,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+410,ML114,6,5,2015,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.4163,118.0584,129.62,2445,16.91,21.21,,5,154.4,90.8,63,0.3885,n,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+413,ML278,9,5,2015,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.4163,118.0584,129.62,2445,16.91,21.21,,6.5,175.8,109.8,74.6,0.4341,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+417,ML285,12,5,2015,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.4163,118.0584,129.62,2445,16.91,21.21,,6.5,181.8,102,75.4,0.433,p,1,3,0.03979,4,High canopy (>10m),23.1648,Seasonally flooded
+423,ML285,15,5,2015,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.4163,118.0584,129.62,2445,16.91,21.21,,6.5,181.8,102,75.4,0.433,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+425,ML105,16,5,2015,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.4163,118.0584,129.62,2445,16.91,21.21,,6,176.8,110,71.4,0.4198,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+426,ML285,17,5,2015,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.4163,118.0584,129.62,2445,16.91,21.21,,6.5,181.8,102,75.4,0.433,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+645,ML371,9,7,2016,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.4163,118.0584,129.62,2445,16.91,21.21,,3,142.6,84.8,57,0.2717,n,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+656,ML371,13,7,2016,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.4163,118.0584,129.62,2445,16.91,21.21,,3,142.6,84.8,57,0.2717,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+664,ML286,21,7,2016,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.4163,118.0584,129.62,2445,16.91,21.21,,3.5,139.8,85.2,54.6,0.3132,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+666,ML277,22,7,2016,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.4163,118.0584,129.62,2445,16.91,21.21,,10,102,117.4,77.6,0.5291,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+668,ML371,2,8,2016,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.4163,118.0584,129.62,2445,16.91,21.21,,3,142.6,84.8,57,0.2717,,0,,,4,High canopy (>10m),23.1648,Seasonally flooded
+87,ML104,2,9,2013,Monsoon,LOT 5,Forest North,129,interior,FOREST,Fint,5.41685,118.06654,129.62,2445,16.91,21.21,,3.5,62.5,93,59,0.3072,n,0,,,4,High canopy (>10m),22.5552,Seasonally flooded
+90,ML106,3,9,2013,Monsoon,LOT 5,Forest North,129,interior,FOREST,Fint,5.41685,118.06654,129.62,2445,16.91,21.21,,12.5,186,102.6,83.2,0.5713,n,0,,,4,High canopy (>10m),22.5552,Seasonally flooded
+97,ML101,6,9,2013,Monsoon,LOT 5,Forest North,129,interior,FOREST,Fint,5.41685,118.06654,129.62,2445,16.91,21.21,,2.5,139,83.8,56,0.2276,,0,,,4,High canopy (>10m),22.5552,Seasonally flooded
+84,ML101,1,9,2013,Monsoon,LOT 5,Forest North,129,interior,FOREST,Fint,5.41764,118.06614,129.62,2445,16.91,21.21,,2.5,139,83.8,56,0.2276,n,0,,,4,High canopy (>10m),21.9456,Seasonally flooded
+88,ML101,2,9,2013,Monsoon,LOT 5,Forest North,129,interior,FOREST,Fint,5.41764,118.06614,129.62,2445,16.91,21.21,,3.6,139,84.8,55,0.3196,n,0,,,4,High canopy (>10m),21.9456,Seasonally flooded
+42,ML67,8,7,2013,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41772,118.05605,129.62,2445,16.91,21.21,male,3.5,135.6,83.2,52.4,0.3164,n,0,,,4,High canopy (>10m),22.2504,Seasonally flooded
+44,ML69,10,7,2013,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41772,118.05605,129.62,2445,16.91,21.21,male,5.8,159.2,98,56.3,0.4361,n,0,,,4,High canopy (>10m),22.2504,Seasonally flooded
+57,ML79,24,7,2013,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41772,118.05605,129.62,2445,16.91,21.21,,3.5,153.8,91.4,63.6,0.3017,p,1,1,0.01572,4,High canopy (>10m),22.2504,Seasonally flooded
+66,ML80,30,7,2013,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41772,118.05605,129.62,2445,16.91,21.21,,3,129,80,49,0.2823,p,1,1,0.02041,4,High canopy (>10m),22.2504,Seasonally flooded
+100,ML98,10,9,2013,Monsoon,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41772,118.05605,129.62,2445,16.91,21.21,,13.5,230.8,126.2,95.4,0.571,,0,,,4,High canopy (>10m),22.2504,Seasonally flooded
+105,ML113,3,10,2013,Monsoon,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41772,118.05605,129.62,2445,16.91,21.21,,1.2,112,68.4,45,0.0479,n,0,,,4,High canopy (>10m),22.2504,Seasonally flooded
+108,ML113,12,10,2013,Monsoon,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41772,118.05605,129.62,2445,16.91,21.21,,1.2,112,68.4,45,0.0479,n,0,,,4,High canopy (>10m),22.2504,Seasonally flooded
+422,ML69,15,5,2015,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41772,118.05605,129.62,2445,16.91,21.21,,6,158.8,94.4,69,0.4232,n,0,,,4,High canopy (>10m),22.2504,Seasonally flooded
+641,ML369,6,7,2016,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41772,118.05605,129.62,2445,16.91,21.21,,1.5,117,71.2,44.6,0.1068,n,0,,,4,High canopy (>10m),22.2504,Seasonally flooded
+659,ML369,20,7,2016,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41772,118.05605,129.62,2445,16.91,21.21,,1.5,117,71.2,44.6,0.1068,,0,,,4,High canopy (>10m),22.2504,Seasonally flooded
+663,ML369,21,7,2016,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41772,118.05605,129.62,2445,16.91,21.21,,1.5,117,71.2,44.6,0.1068,,0,,,4,High canopy (>10m),22.2504,Seasonally flooded
+52,ML77,21,7,2013,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41819,118.05353,129.62,2445,16.91,21.21,,3.5,134.2,95.6,56.8,0.3101,n,0,,,3,Low canopy (5-10m),21.9456,Seasonally flooded
+65,Ml86,29,7,2013,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41819,118.05353,129.62,2445,16.91,21.21,,6,173.8,105.8,66,0.4277,p,1,3,0.04545,3,Low canopy (5-10m),21.9456,Seasonally flooded
+107,ML67,12,10,2013,Monsoon,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41819,118.05353,129.62,2445,16.91,21.21,,3.5,154,96.6,58,0.3085,n,0,,,3,Low canopy (5-10m),21.9456,Seasonally flooded
+109,ML80,16,10,2013,Monsoon,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41819,118.05353,129.62,2445,16.91,21.21,,3.5,144.6,87.4,57.6,0.3091,n,0,,,3,Low canopy (5-10m),21.9456,Seasonally flooded
+409,ML283,3,5,2015,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41819,118.05353,129.62,2445,16.91,21.21,,2.5,114.4,66.6,48,0.2367,p,1,1,0.02083,3,Low canopy (5-10m),21.9456,Seasonally flooded
+411,ML284,7,5,2015,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41819,118.05353,129.62,2445,16.91,21.21,,5,160.2,92,68.2,0.3812,p,1,5,0.07331,3,Low canopy (5-10m),21.9456,Seasonally flooded
+414,ML282,11,5,2015,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41819,118.05353,129.62,2445,16.91,21.21,,13,196,105.4,88.4,0.5723,,0,,,3,Low canopy (5-10m),21.9456,Seasonally flooded
+416,ML282,12,5,2015,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41819,118.05353,129.62,2445,16.91,21.21,,13,196,105.4,88.4,0.5723,,0,,,3,Low canopy (5-10m),21.9456,Seasonally flooded
+640,ML368,5,7,2016,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41819,118.05353,129.62,2445,16.91,21.21,,10,197.6,118.4,70.9,0.5404,n,0,,,3,Low canopy (5-10m),21.9456,Seasonally flooded
+644,ML370,9,7,2016,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41819,118.05353,129.62,2445,16.91,21.21,,3.5,154.4,95.4,59.8,0.3062,p,1,3,0.05017,3,Low canopy (5-10m),21.9456,Seasonally flooded
+647,ML277,10,7,2016,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41819,118.05353,129.62,2445,16.91,21.21,,10,102,117.4,77.6,0.5291,n,0,,,3,Low canopy (5-10m),21.9456,Seasonally flooded
+650,ML370,11,7,2016,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41819,118.05353,129.62,2445,16.91,21.21,,3.5,154.4,95.4,59.8,0.3062,,0,,,3,Low canopy (5-10m),21.9456,Seasonally flooded
+653,ML105,12,7,2016,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41819,118.05353,129.62,2445,16.91,21.21,,6,176.8,110,71.4,0.4198,,0,,,3,Low canopy (5-10m),21.9456,Seasonally flooded
+655,ML283,13,7,2016,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41819,118.05353,129.62,2445,16.91,21.21,,2.5,126.2,72.4,52.2,0.2317,n,0,,,3,Low canopy (5-10m),21.9456,Seasonally flooded
+662,ML378,21,7,2016,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41819,118.05353,129.62,2445,16.91,21.21,,4,168,91.2,64,0.3333,p,1,2,0.03125,3,Low canopy (5-10m),21.9456,Seasonally flooded
+0,ML18,22,4,2013,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41856,118.06731,129.62,2445,16.91,21.21,,3.5,143.5,90,53.3,0.3151,,0,,,4,High canopy (>10m),22.5552,Seasonally flooded
+2,ML20,26,4,2013,Dry,LOT 5,Forest North,129,riverside,FOREST,FRS,5.41856,118.06731,129.62,2445,16.91,21.21,,2.5,131.3,81.1,50,0.2342,,0,,,4,High canopy (>10m),22.5552,Seasonally flooded
+218,ML183,30,3,2014,Dry,Hillco,OPP North,70,riverside,OPP,OPPRs,5.41881,118.03199,187.32,263.81,39.46,2.29,,2,118.1,69.4,47.2,0.1798,n,0,,,4,High canopy (>10m),22.5552,Seasonally flooded
+221,ML186,2,4,2014,Dry,Hillco,OPP North,70,riverside,OPP,OPPRs,5.41881,118.03199,187.32,263.81,39.46,2.29,,13.5,216.2,126.8,87,0.5828,p,1,1,0.01149,4,High canopy (>10m),22.5552,Seasonally flooded
+223,ML186,3,4,2014,Dry,Hillco,OPP North,70,riverside,OPP,OPPRs,5.41881,118.03199,187.32,263.81,39.46,2.29,,13.5,216.2,126.8,87,0.5828,,0,,,4,High canopy (>10m),22.5552,Seasonally flooded
+229,ML193,8,4,2014,Dry,Hillco,OPP North,70,riverside,OPP,OPPRs,5.41881,118.03199,187.32,263.81,39.46,2.29,,2,131.6,79.9,45.4,0.1817,n,0,,,4,High canopy (>10m),22.5552,Seasonally flooded
+478,ML308,25,7,2015,Dry,Hillco,OPP North,70,riverside,OPP,OPPRs,5.41881,118.03199,187.32,263.81,39.46,2.29,,5.5,167,94.8,73,0.3973,,0,,,4,High canopy (>10m),22.5552,Seasonally flooded
+481,ML315,27,7,2015,Dry,Hillco,OPP North,70,riverside,OPP,OPPRs,5.41881,118.03199,187.32,263.81,39.46,2.29,,2.5,140.2,84.4,52.8,0.231,n,0,,,4,High canopy (>10m),22.5552,Seasonally flooded
+83,ML100,31,8,2013,Dry,LOT 5,Forest North,129,interior,FOREST,Fint,5.41876,118.06666,129.62,2445,16.91,21.21,,8,184,107.6,76,0.4802,p,1,5,0.06579,4,High canopy (>10m),22.2504,Seasonally flooded
+85,ML102,1,9,2013,Monsoon,LOT 5,Forest North,129,interior,FOREST,Fint,5.41876,118.06666,129.62,2445,16.91,21.21,,12.5,209.8,118,88,0.5641,p,1,4,0.04545,4,High canopy (>10m),22.2504,Seasonally flooded
+89,ML105,2,9,2013,Monsoon,LOT 5,Forest North,129,interior,FOREST,Fint,5.41876,118.06666,129.62,2445,16.91,21.21,,5,165.6,100,65,0.3856,n,0,,,4,High canopy (>10m),22.2504,Seasonally flooded
+91,ML107,3,9,2013,Monsoon,LOT 5,Forest North,129,interior,FOREST,Fint,5.41876,118.06666,129.62,2445,16.91,21.21,,4.5,116.8,54.6,57,0.372,p,1,1,0.01754,4,High canopy (>10m),22.2504,Seasonally flooded
+94,ML109,5,9,2013,Monsoon,LOT 5,Forest North,129,interior,FOREST,Fint,5.41876,118.06666,129.62,2445,16.91,21.21,,10.5,197.6,115,80,0.5366,p,1,1,0.0125,4,High canopy (>10m),22.2504,Seasonally flooded
+98,ML112,7,9,2013,Monsoon,LOT 5,Forest North,129,interior,FOREST,Fint,5.41876,118.06666,129.62,2445,16.91,21.21,,18,218,113.8,91,0.6408,n,0,,,4,High canopy (>10m),22.2504,Seasonally flooded
+395,ML276,15,4,2015,Dry,LOT 5,Forest North,129,interior,FOREST,Fint,5.41971,118.06417,129.62,2445,16.91,21.21,,7.5,189,113.2,71.2,0.4724,p,1,6,0.08427,4,High canopy (>10m),22.86,Seasonally flooded
+397,ML278,16,4,2015,Dry,LOT 5,Forest North,129,interior,FOREST,Fint,5.41971,118.06417,129.62,2445,16.91,21.21,,6.5,175.8,109.8,74.6,0.4341,p,1,12,0.16086,4,High canopy (>10m),22.86,Seasonally flooded
+400,ML278,18,4,2015,Dry,LOT 5,Forest North,129,interior,FOREST,Fint,5.41971,118.06417,129.62,2445,16.91,21.21,,6.5,175.8,109.8,74.6,0.4341,,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+405,ML105,24,4,2015,Dry,LOT 5,Forest North,129,interior,FOREST,Fint,5.41971,118.06417,129.62,2445,16.91,21.21,,6,176.8,110,71.4,0.4198,,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+407,ML105,26,4,2015,Dry,LOT 5,Forest North,129,interior,FOREST,Fint,5.41971,118.06417,129.62,2445,16.91,21.21,,6,176.8,110,71.4,0.4198,,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+136,ML73,28,11,2013,Monsoon,LOT 5,Forest North,129,interior,FOREST,Fint,5.42001,118.0608,129.62,2445,16.91,21.21,,4.5,152.8,92,61,0.3659,n,0,,,4,High canopy (>10m),22.2504,Seasonally flooded
+111,ML114,23,10,2013,Monsoon,LOT 5,Forest North,129,interior,FOREST,Fint,5.42002,118.05805,129.62,2445,16.91,21.21,,3.5,144.8,88.6,54.6,0.3132,n,0,,,4,High canopy (>10m),22.2504,Seasonally flooded
+113,ML69,24,10,2013,Monsoon,LOT 5,Forest North,129,interior,FOREST,Fint,5.42002,118.05805,129.62,2445,16.91,21.21,,5.5,159.4,93.8,65.6,0.4075,n,0,,,4,High canopy (>10m),22.2504,Seasonally flooded
+115,ML77,25,10,2013,Monsoon,LOT 5,Forest North,129,interior,FOREST,Fint,5.42002,118.05805,129.62,2445,16.91,21.21,,2.5,135.6,82.2,53,0.2308,n,0,,,4,High canopy (>10m),22.2504,Seasonally flooded
+129,ML123,24,11,2013,Monsoon,LOT 5,Forest North,129,interior,FOREST,Fint,5.42002,118.05805,129.62,2445,16.91,21.21,,7.5,186.4,116.8,70.2,0.4739,n,0,,,4,High canopy (>10m),22.2504,Seasonally flooded
+131,ML114,25,11,2013,Monsoon,LOT 5,Forest North,129,interior,FOREST,Fint,5.42002,118.05805,129.62,2445,16.91,21.21,,3.5,144.8,88.6,54.6,0.3132,n,0,,,4,High canopy (>10m),22.2504,Seasonally flooded
+134,ML100,27,11,2013,Monsoon,LOT 5,Forest North,129,interior,FOREST,Fint,5.42002,118.05805,129.62,2445,16.91,21.21,,8,184,105.4,77.2,0.4784,p,1,1,0.01295,4,High canopy (>10m),22.2504,Seasonally flooded
+137,ML70,28,11,2013,Monsoon,LOT 5,Forest North,129,interior,FOREST,Fint,5.42002,118.05805,129.62,2445,16.91,21.21,,8,190,113.8,78.4,0.4767,p,1,2,0.02551,4,High canopy (>10m),22.2504,Seasonally flooded
+139,ML125,30,11,2013,Monsoon,LOT 5,Forest North,129,interior,FOREST,Fint,5.42002,118.05805,129.62,2445,16.91,21.21,,17.5,227.2,122.8,103,0.6176,n,0,,,4,High canopy (>10m),22.2504,Seasonally flooded
+401,ML280,18,4,2015,Dry,LOT 5,Forest North,129,interior,FOREST,Fint,5.42002,118.05805,129.62,2445,16.91,21.21,,1.5,118.6,73.4,45,0.1065,p,1,1,0.02222,4,High canopy (>10m),22.2504,Seasonally flooded
+132,ML67,25,11,2013,Monsoon,LOT 5,Forest North,129,interior,FOREST,Fint,5.42014,118.05534,129.62,2445,16.91,21.21,,3.5,155,96.8,57.4,0.3093,n,0,,,4,High canopy (>10m),22.2504,Seasonally flooded
+86,ML103,1,9,2013,Monsoon,LOT 5,Forest North,129,interior,FOREST,Fint,5.42089,118.06808,129.62,2445,16.91,21.21,,7,184.6,110,72.6,0.4541,p,1,1,0.01377,4,High canopy (>10m),22.2504,Seasonally flooded
+93,ML108,3,9,2013,Monsoon,LOT 5,Forest North,129,interior,FOREST,Fint,5.42089,118.06808,129.62,2445,16.91,21.21,,12,204.8,122,81.2,0.5651,p,1,1,0.01232,4,High canopy (>10m),22.2504,Seasonally flooded
+96,ML111,5,9,2013,Monsoon,LOT 5,Forest North,129,interior,FOREST,Fint,5.42089,118.06808,129.62,2445,16.91,21.21,,16.5,224.6,129,89.2,0.6242,p,1,3,0.03363,4,High canopy (>10m),22.2504,Seasonally flooded
+216,ML181,16,3,2014,Dry,Hillco,OPP North,70,riverside,OPP,OPPRs,5.42135,118.03288,187.32,263.81,39.46,2.29,,5.5,164.6,99.4,65.6,0.4075,,0,,,3,Low canopy (5-10m),22.5552,Seasonally flooded
+470,ML308,13,7,2015,Dry,Hillco,OPP North,70,riverside,OPP,OPPRs,5.42135,118.03288,187.32,263.81,39.46,2.29,,5.5,167,94.8,73,0.3973,p,1,1,0.0137,3,Low canopy (5-10m),22.5552,Seasonally flooded
+472,ML304,14,7,2015,Dry,Hillco,OPP North,70,riverside,OPP,OPPRs,5.42135,118.03288,187.32,263.81,39.46,2.29,,2.5,127.8,79,45.2,0.2404,n,0,,,3,Low canopy (5-10m),22.5552,Seasonally flooded
+473,ML310,18,7,2015,Dry,Hillco,OPP North,70,riverside,OPP,OPPRs,5.42135,118.03288,187.32,263.81,39.46,2.29,,3.5,156.4,96.4,60.6,0.3052,n,0,,,3,Low canopy (5-10m),22.5552,Seasonally flooded
+479,ML304,25,7,2015,Dry,Hillco,OPP North,70,riverside,OPP,OPPRs,5.42135,118.03288,187.32,263.81,39.46,2.29,,2.5,127.8,79,45.2,0.2404,,0,,,3,Low canopy (5-10m),22.5552,Seasonally flooded
+480,ML314,26,7,2015,Dry,Hillco,OPP North,70,riverside,OPP,OPPRs,5.42135,118.03288,187.32,263.81,39.46,2.29,,4.5,166.4,105.8,62.2,0.3642,p,1,1,0.01608,3,Low canopy (5-10m),22.5552,Seasonally flooded
+485,ML181,2,8,2015,Dry,Hillco,OPP North,70,riverside,OPP,OPPRs,5.42135,118.03288,187.32,263.81,39.46,2.29,,6.5,176.2,103.4,71.2,0.4388,n,0,,,3,Low canopy (5-10m),22.5552,Seasonally flooded
+487,ML186,3,8,2015,Dry,Hillco,OPP North,70,riverside,OPP,OPPRs,5.42135,118.03288,187.32,263.81,39.46,2.29,,11.5,2.16,132,86.2,0.548,p,1,4,0.0464,3,Low canopy (5-10m),22.5552,Seasonally flooded
+491,ML314,5,8,2015,Dry,Hillco,OPP North,70,riverside,OPP,OPPRs,5.42135,118.03288,187.32,263.81,39.46,2.29,,11.5,2.16,132,86.2,0.548,,0,,,3,Low canopy (5-10m),22.5552,Seasonally flooded
+92,ML100,3,9,2013,Monsoon,LOT 5,Forest North,129,interior,FOREST,Fint,5.4217,118.06619,129.62,2445,16.91,21.21,,8,184,107.6,76,0.4802,n,0,,,2,Bush (2-5m),22.2504,Seasonally flooded
+95,ML110,5,9,2013,Monsoon,LOT 5,Forest North,129,interior,FOREST,Fint,5.4217,118.06619,129.62,2445,16.91,21.21,,5.5,168.2,102.2,65.4,0.4078,p,1,1,0.01529,2,Bush (2-5m),22.2504,Seasonally flooded
+110,ML102,21,10,2013,Monsoon,LOT 5,Forest North,129,interior,FOREST,Fint,5.4217,118.06619,129.62,2445,16.91,21.21,,12,208.8,117,88.4,0.5544,n,0,,,2,Bush (2-5m),22.2504,Seasonally flooded
+112,ML106,24,10,2013,Monsoon,LOT 5,Forest North,129,interior,FOREST,Fint,5.4217,118.06619,129.62,2445,16.91,21.21,,12.5,184.6,100.6,81.8,0.5735,p,1,2,0.02445,2,Bush (2-5m),22.2504,Seasonally flooded
+114,ML101,25,10,2013,Monsoon,LOT 5,Forest North,129,interior,FOREST,Fint,5.4217,118.06619,129.62,2445,16.91,21.21,,2.5,138.2,82.6,55.4,0.2282,n,0,,,2,Bush (2-5m),22.2504,Seasonally flooded
+130,ML124,25,11,2013,Monsoon,LOT 5,Forest North,129,interior,FOREST,Fint,5.4217,118.06619,129.62,2445,16.91,21.21,,17.5,229,122.2,103.8,0.6165,p,1,60,0.57803,2,Bush (2-5m),22.2504,Seasonally flooded
+133,ML107,26,11,2013,Monsoon,LOT 5,Forest North,129,interior,FOREST,Fint,5.4217,118.06619,129.62,2445,16.91,21.21,,4,120,56,61,0.3372,p,1,1,0.01639,2,Bush (2-5m),22.2504,Seasonally flooded
+135,ML110,28,11,2013,Monsoon,LOT 5,Forest North,129,interior,FOREST,Fint,5.4217,118.06619,129.62,2445,16.91,21.21,,5.5,169.2,104.6,66,0.4069,n,0,,,2,Bush (2-5m),22.2504,Seasonally flooded
+138,ML105,29,11,2013,Monsoon,LOT 5,Forest North,129,interior,FOREST,Fint,5.4217,118.06619,129.62,2445,16.91,21.21,,5,167.4,100,65.6,0.3847,n,0,,,2,Bush (2-5m),22.2504,Seasonally flooded
+394,ML277,15,4,2015,Dry,LOT 5,Forest North,129,interior,FOREST,Fint,5.4217,118.06619,129.62,2445,16.91,21.21,,7.5,184,115.4,76,0.4653,p,1,1,0.01316,2,Bush (2-5m),22.2504,Seasonally flooded
+396,ML279,16,4,2015,Dry,LOT 5,Forest North,129,interior,FOREST,Fint,5.4217,118.06619,129.62,2445,16.91,21.21,,3,141,80.2,60.8,0.2675,n,0,,,2,Bush (2-5m),22.2504,Seasonally flooded
+398,ML105,17,4,2015,Dry,LOT 5,Forest North,129,interior,FOREST,Fint,5.4217,118.06619,129.62,2445,16.91,21.21,,6,176.8,110,71.4,0.4198,p,1,1,0.01401,2,Bush (2-5m),22.2504,Seasonally flooded
+399,ML279,18,4,2015,Dry,LOT 5,Forest North,129,interior,FOREST,Fint,5.4217,118.06619,129.62,2445,16.91,21.21,,3,141,80.2,60.8,0.2675,,0,,,2,Bush (2-5m),22.2504,Seasonally flooded
+402,ML280,21,4,2015,Dry,LOT 5,Forest North,129,interior,FOREST,Fint,5.4217,118.06619,129.62,2445,16.91,21.21,,1.5,118.6,73.4,45,0.1065,,0,,,2,Bush (2-5m),22.2504,Seasonally flooded
+403,ML281,22,4,2015,Dry,LOT 5,Forest North,129,interior,FOREST,Fint,5.4217,118.06619,129.62,2445,16.91,21.21,,2,119.6,74.6,44.2,0.1829,n,0,,,2,Bush (2-5m),22.2504,Seasonally flooded
+404,ML282,24,4,2015,Dry,LOT 5,Forest North,129,interior,FOREST,Fint,5.4217,118.06619,129.62,2445,16.91,21.21,,13,196,105.4,88.4,0.5723,p,1,6,0.06787,2,Bush (2-5m),22.2504,Seasonally flooded
+406,ML281,25,4,2015,Dry,LOT 5,Forest North,129,interior,FOREST,Fint,5.4217,118.06619,129.62,2445,16.91,21.21,,2,119.6,74.6,44.2,0.1829,,0,,,2,Bush (2-5m),22.2504,Seasonally flooded
+408,ML101,27,4,2015,Dry,LOT 5,Forest North,129,interior,FOREST,Fint,5.4217,118.06619,129.62,2445,16.91,21.21,,4,158.4,95.6,63,0.3346,n,0,,,2,Bush (2-5m),22.2504,Seasonally flooded
+215,ML181,14,3,2014,Dry,Hillco,OPP North,70,riverside,OPP,OPPRs,5.42316,118.035,187.32,263.81,39.46,2.29,,5.5,164.6,99.4,65.6,0.4075,n,0,,,3,Low canopy (5-10m),22.86,Seasonally flooded
+469,ML289,12,7,2015,Dry,Hillco,OPP North,70,riverside,OPP,OPPRs,5.42316,118.035,187.32,263.81,39.46,2.29,,6.5,179,106.4,72,0.4377,p,1,1,0.01389,3,Low canopy (5-10m),22.86,Seasonally flooded
+471,ML309,13,7,2015,Dry,Hillco,OPP North,70,riverside,OPP,OPPRs,5.42316,118.035,187.32,263.81,39.46,2.29,,4,146.2,89.6,59.2,0.3397,n,0,,,3,Low canopy (5-10m),22.86,Seasonally flooded
+474,ML308,18,7,2015,Dry,Hillco,OPP North,70,riverside,OPP,OPPRs,5.42316,118.035,187.32,263.81,39.46,2.29,,5.5,167,94.8,73,0.3973,,0,,,3,Low canopy (5-10m),22.86,Seasonally flooded
+476,ML312,19,7,2015,Dry,Hillco,OPP North,70,riverside,OPP,OPPRs,5.42316,118.035,187.32,263.81,39.46,2.29,,1.5,119,73.6,43.4,0.1075,n,0,,,3,Low canopy (5-10m),22.86,Seasonally flooded
+488,ML218,3,8,2015,Dry,Hillco,OPP North,70,riverside,OPP,OPPRs,5.42316,118.035,187.32,263.81,39.46,2.29,,11.5,198,120.2,83.2,0.5524,n,0,,,3,Low canopy (5-10m),22.86,Seasonally flooded
+256,ML181,30,5,2014,Dry,Hillco,OPP North,70,interior,OPP,OPPInt,5.42378,118.029311,187.32,263.81,39.46,2.29,,5,164.6,99.4,67.6,0.382,n,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+428,ML289,22,5,2015,Dry,Hillco,OPP North,70,interior,OPP,OPPInt,5.42378,118.029311,187.32,263.81,39.46,2.29,,7,177.6,102.4,69,0.4596,n,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+434,ML181,1,6,2015,Dry,Hillco,OPP North,70,interior,OPP,OPPInt,5.42378,118.029311,187.32,263.81,39.46,2.29,,6,175,105,71.2,0.4201,n,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+435,ML292,2,6,2015,Dry,Hillco,OPP North,70,interior,OPP,OPPInt,5.42378,118.029311,187.32,263.81,39.46,2.29,,11.5,202.4,119.8,81,0.5558,,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+436,ML294,3,6,2015,Dry,Hillco,OPP North,70,interior,OPP,OPPInt,5.42378,118.029311,187.32,263.81,39.46,2.29,,3,137.2,83.2,50.6,0.28,n,0,,,4,High canopy (>10m),22.86,Seasonally flooded
+212,ML178,5,3,2014,Dry,Hillco,OPP North,70,riverside,OPP,OPPRs,5.42437,118.03745,187.32,263.81,39.46,2.29,,3,142.2,88.8,54.8,0.2744,n,0,,,2,Bush (2-5m),22.5552,Seasonally flooded
+217,ML182,16,3,2014,Dry,Hillco,OPP North,70,riverside,OPP,OPPRs,5.42437,118.03745,187.32,263.81,39.46,2.29,,6,178.9,108.2,69.6,0.4223,n,0,,,2,Bush (2-5m),22.5552,Seasonally flooded
+219,ML184,1,4,2014,Dry,Hillco,OPP North,70,riverside,OPP,OPPRs,5.42437,118.03745,187.32,263.81,39.46,2.29,,6,168.4,100,69.6,0.4223,n,0,,,2,Bush (2-5m),22.5552,Seasonally flooded
+227,ML191,7,4,2014,Dry,Hillco,OPP North,70,riverside,OPP,OPPRs,5.42437,118.03745,187.32,263.81,39.46,2.29,,3.75,140.2,82.8,56.4,0.3278,n,0,,,2,Bush (2-5m),22.5552,Seasonally flooded
+482,ML316,27,7,2015,Dry,Hillco,OPP North,70,riverside,OPP,OPPRs,5.42437,118.03745,187.32,263.81,39.46,2.29,,7.5,176.6,101.8,74.8,0.467,p,1,2,0.02674,2,Bush (2-5m),22.5552,Seasonally flooded
+486,ML311,2,8,2015,Dry,Hillco,OPP North,70,riverside,OPP,OPPRs,5.42437,118.03745,187.32,263.81,39.46,2.29,,5,160.6,96.4,62.2,0.3897,,0,,,2,Bush (2-5m),22.5552,Seasonally flooded
+489,ML191,3,8,2015,Dry,Hillco,OPP North,70,riverside,OPP,OPPRs,5.42437,118.03745,187.32,263.81,39.46,2.29,,4,142.6,86.2,56.4,0.3438,p,1,2,0.03546,2,Bush (2-5m),22.5552,Seasonally flooded
+490,ML318,4,8,2015,Dry,Hillco,OPP North,70,riverside,OPP,OPPRs,5.42437,118.03745,187.32,263.81,39.46,2.29,,5.5,174,17467.2,67.2,0.4052,p,1,1,0.01488,2,Bush (2-5m),22.5552,Seasonally flooded
+253,ML208,29,5,2014,Dry,Hillco,OPP North,70,interior,OPP,OPPInt,5.42663,118.02911,187.32,263.81,39.46,2.29,,7,186,110.2,74.8,0.451,p,1,1,0.01337,4,High canopy (>10m),22.5552,Seasonally flooded
+257,ML211,30,5,2014,Dry,Hillco,OPP North,70,interior,OPP,OPPInt,5.42663,118.02911,187.32,263.81,39.46,2.29,,3.7,153.2,93,58.4,0.3217,p,1,1,0.01712,4,High canopy (>10m),22.5552,Seasonally flooded
+260,ML208,2,6,2014,Dry,Hillco,OPP North,70,interior,OPP,OPPInt,5.42663,118.02911,187.32,263.81,39.46,2.29,,7,186,110.2,74.8,0.451,,0,,,4,High canopy (>10m),22.5552,Seasonally flooded
+262,ML215,4,6,2014,Dry,Hillco,OPP North,70,interior,OPP,OPPInt,5.42663,118.02911,187.32,263.81,39.46,2.29,,5,174,108,68.2,0.3812,p,1,3,0.04399,4,High canopy (>10m),22.5552,Seasonally flooded
+263,ML216,5,6,2014,Dry,Hillco,OPP North,70,interior,OPP,OPPInt,5.42663,118.02911,187.32,263.81,39.46,2.29,,3.5,161.2,96.4,64,0.3012,n,0,,,4,High canopy (>10m),22.5552,Seasonally flooded
+265,ML214,8,6,2014,Dry,Hillco,OPP North,70,interior,OPP,OPPInt,5.42663,118.02911,187.32,263.81,39.46,2.29,,10.5,205,120.8,81.2,0.5348,n,0,,,4,High canopy (>10m),22.5552,Seasonally flooded
+266,ML218,10,6,2014,Dry,Hillco,OPP North,70,interior,OPP,OPPInt,5.42663,118.02911,187.32,263.81,39.46,2.29,,9.5,196,115,79.4,0.5146,n,0,,,4,High canopy (>10m),22.5552,Seasonally flooded
+254,ML209,29,5,2014,Dry,Hillco,OPP North,70,interior,OPP,OPPInt,5.42935,118.02934,187.32,263.81,39.46,2.29,,2.5,134.6,84.4,48.2,0.2364,p,1,2,0.04149,1,Grassland (up to 2m),22.5552,Seasonally flooded
+258,ML212,1,6,2014,Dry,Hillco,OPP North,70,interior,OPP,OPPInt,5.42935,118.02934,187.32,263.81,39.46,2.29,,11,205.6,121.3,83.4,0.5421,n,0,,,1,Grassland (up to 2m),22.5552,Seasonally flooded
+261,ML214,2,6,2014,Dry,Hillco,OPP North,70,interior,OPP,OPPInt,5.42935,118.02934,187.32,263.81,39.46,2.29,,10.5,205,120.8,81.2,0.5348,n,0,,,1,Grassland (up to 2m),22.5552,Seasonally flooded
+264,ML217,6,6,2014,Dry,Hillco,OPP North,70,interior,OPP,OPPInt,5.42935,118.02934,187.32,263.81,39.46,2.29,,1.5,147.2,90.6,55.4,0.101,n,0,,,1,Grassland (up to 2m),22.5552,Seasonally flooded
+267,ML216,11,6,2014,Dry,Hillco,OPP North,70,interior,OPP,OPPInt,5.42935,118.02934,187.32,263.81,39.46,2.29,,3.5,161.2,96.4,64,0.3012,n,0,,,1,Grassland (up to 2m),22.5552,Seasonally flooded
+429,ML290,25,5,2015,Dry,Hillco,OPP North,70,interior,OPP,OPPInt,5.42935,118.02934,187.32,263.81,39.46,2.29,,9.5,201.2,116.2,82.4,0.5103,p,1,1,0.01214,1,Grassland (up to 2m),22.5552,Seasonally flooded
+431,ML292,25,5,2015,Dry,Hillco,OPP North,70,interior,OPP,OPPInt,5.42935,118.02934,187.32,263.81,39.46,2.29,,11.5,202.4,119.8,81,0.5558,p,1,6,0.07407,1,Grassland (up to 2m),22.5552,Seasonally flooded
+437,ML295,4,6,2015,Dry,Hillco,OPP North,70,interior,OPP,OPPInt,5.42935,118.02934,187.32,263.81,39.46,2.29,,7.5,171.4,101.2,69.8,0.4746,p,1,2,0.02865,1,Grassland (up to 2m),22.5552,Seasonally flooded
+439,ML292,5,6,2015,Dry,Hillco,OPP North,70,interior,OPP,OPPInt,5.42935,118.02934,187.32,263.81,39.46,2.29,,11.5,202.4,119.8,81,0.5558,,0,,,1,Grassland (up to 2m),22.5552,Seasonally flooded
+427,ML288,21,5,2015,Dry,Hillco,OPP North,70,interior,OPP,OPPInt,5.4348,118.02925,187.32,263.81,39.46,2.29,,6.5,175,103.4,70.2,0.4403,p,1,1,0.01425,4,High canopy (>10m),22.5552,Seasonally flooded
+440,ML297,5,6,2015,Dry,Hillco,OPP North,70,interior,OPP,OPPInt,5.4348,118.02925,187.32,263.81,39.46,2.29,,6.5,173.4,104.4,68.4,0.443,n,0,,,4,High canopy (>10m),22.5552,Seasonally flooded
